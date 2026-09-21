@@ -1,0 +1,11 @@
+import {chromium} from 'playwright';
+const b=await chromium.launch({executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe',headless:true,args:['--enable-unsafe-swiftshader']});
+const p=await b.newPage({viewport:{width:1440,height:960}});
+p.on('console',msg=>{if(msg.type()==='error'||msg.type()==='warning')console.log(msg.type(),msg.text())});
+p.on('requestfailed',r=>console.log('FAILED',r.url(),r.failure()));
+p.on('response',r=>{if(r.url().includes('openfree')||r.url().includes('map-style'))console.log(r.status(),r.url())});
+await p.goto('http://127.0.0.1:5173/',{waitUntil:'networkidle'});
+await p.waitForTimeout(6000);
+console.log(await p.locator('.maplibregl-map').count());
+await p.screenshot({path:'.test-results/map-diagnostic.png'});
+await b.close();
