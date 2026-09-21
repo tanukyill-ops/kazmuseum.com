@@ -1,0 +1,3134 @@
+[
+  {
+    "id": "yasawi",
+    "title": {
+      "kk": "Қожа Ахмет Ясауи кесенесі",
+      "ru": "Мавзолей Ходжи Ахмеда Ясави",
+      "en": "Mausoleum of Khoja Ahmed Yasawi"
+    },
+    "region": {
+      "kk": "Түркістан облысы",
+      "ru": "Туркестанская область",
+      "en": "Turkistan Region"
+    },
+    "city": {
+      "kk": "Түркістан",
+      "ru": "Туркестан",
+      "en": "Turkistan"
+    },
+    "category": "mausoleum",
+    "era": "medieval",
+    "period": {
+      "kk": "1389–1405 жылдар",
+      "ru": "1389–1405 годы",
+      "en": "1389–1405"
+    },
+    "coordinates": [
+      43.297694,
+      68.271056
+    ],
+    "description": {
+      "kk": "Түркістандағы алып кесене — Әмір Темір дәуірінен жеткен сәулет мұрасы. Кірпіш қабырғалар, биік портал және көгілдір күмбездер біртұтас кешен құрайды.",
+      "ru": "Монументальный мавзолей в Туркестане — наследие эпохи Тимура. Кирпичные стены, высокий портал и голубые купола образуют единый архитектурный комплекс.",
+      "en": "This monumental mausoleum in Turkistan is a legacy of Timur’s era. Brick walls, a tall entrance portal and blue domes form a single architectural ensemble."
+    },
+    "significance": {
+      "kk": "2003 жылы ЮНЕСКО Дүниежүзілік мұра тізіміне енді. Ол Орталық Азиядағы діни сәулеттің дамуын танытады.",
+      "ru": "Включён в Список всемирного наследия ЮНЕСКО в 2003 году. Памятник показывает развитие религиозной архитектуры Центральной Азии.",
+      "en": "Inscribed on the UNESCO World Heritage List in 2003, the monument illustrates the development of religious architecture in Central Asia."
+    },
+    "facts": [
+      {
+        "kk": "Кесене Түркістан қаласында орналасқан.",
+        "ru": "Мавзолей расположен в Туркестане.",
+        "en": "The mausoleum stands in Turkistan."
+      },
+      {
+        "kk": "Құрылыс Әмір Темірдің бұйрығымен 1389–1405 жылдары жүргізілді.",
+        "ru": "Строительство велось по приказу Тимура в 1389–1405 годах.",
+        "en": "Construction took place in 1389–1405 on Timur’s orders."
+      },
+      {
+        "kk": "Ғимарат XII ғасырдағы сопы Қожа Ахмет Ясауиге арналған.",
+        "ru": "Сооружение посвящено суфию XII века Ходже Ахмеду Ясави.",
+        "en": "The building honours the 12th-century Sufi teacher Khoja Ahmed Yasawi."
+      },
+      {
+        "kk": "Кесене ЮНЕСКО тізіміне 2003 жылы енгізілді.",
+        "ru": "Мавзолей включён в список ЮНЕСКО в 2003 году.",
+        "en": "The mausoleum joined the UNESCO list in 2003."
+      },
+      {
+        "kk": "Биік кіреберіс портал мен күмбездер — кесененің танымал белгілері; үлгіде олардың жалпы пішіні көрсетілген.",
+        "ru": "Высокий входной портал и купола — узнаваемые черты мавзолея; модель передаёт их общую форму.",
+        "en": "A tall entrance portal and domes distinguish the mausoleum; the model shows their general shapes."
+      }
+    ],
+    "sources": [
+      {
+        "title": "UNESCO · Khoja Ahmed Yasawi",
+        "url": "https://whc.unesco.org/en/list/1103/"
+      }
+    ],
+    "coordinateSources": [
+      {
+        "title": "UNESCO · N43 17 51.7 E68 16 15.8",
+        "url": "https://whc.unesco.org/en/list/1103/"
+      },
+      {
+        "title": "Wikipedia · Mausoleum coordinates",
+        "url": "https://en.wikipedia.org/wiki/Mausoleum_of_Khoja_Ahmed_Yasawi"
+      }
+    ],
+    "imageGallery": [
+      "/images/yasawi.webp"
+    ],
+    "imageCredits": [
+      {
+        "author": "Petar Milošević",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Mausoleum_of_Khoja_Ahmed_Yasavi_in_Turkestan,_Kazakhstan.jpg",
+        "accessed": "2026-09-21"
+      }
+    ],
+    "modelUrl": "/models/yasawi.glb",
+    "modelAccuracy": "approximate",
+    "vrAvailable": true,
+    "hotspots": [
+      {
+        "position": [
+          0,
+          2.5,
+          2.5
+        ],
+        "title": {
+          "kk": "Кіреберіс портал",
+          "ru": "Входной портал",
+          "en": "Entrance portal"
+        },
+        "description": {
+          "kk": "Биік портал негізгі кіреберісті айқындайды. Үлгіде оның аркалы пішіні ықшамдалған.",
+          "ru": "Высокий портал выделяет главный вход. В модели его арочная форма упрощена.",
+          "en": "The tall portal frames the main entrance. The model simplifies its arched form."
+        }
+      },
+      {
+        "position": [
+          0,
+          4.7,
+          0.8
+        ],
+        "title": {
+          "kk": "Күмбездер",
+          "ru": "Купола",
+          "en": "Domes"
+        },
+        "description": {
+          "kk": "Биік кіреберіс портал мен күмбездер — кесененің танымал белгілері; үлгіде олардың жалпы пішіні көрсетілген.",
+          "ru": "Высокий входной портал и купола — узнаваемые черты мавзолея; модель передаёт их общую форму.",
+          "en": "A tall entrance portal and domes distinguish the mausoleum; the model shows their general shapes."
+        }
+      }
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "kk": "Бұл нысан қай өңірде орналасқан?",
+          "ru": "В каком регионе расположен этот объект?",
+          "en": "In which region is this site located?"
+        },
+        "options": [
+          {
+            "kk": "Түркістан облысы",
+            "ru": "Туркестанская область",
+            "en": "Turkistan Region"
+          },
+          {
+            "kk": "Жамбыл облысы",
+            "ru": "Жамбылская область",
+            "en": "Zhambyl Region"
+          },
+          {
+            "kk": "Алматы облысы",
+            "ru": "Алматинская область",
+            "en": "Almaty Region"
+          },
+          {
+            "kk": "Астана",
+            "ru": "Астана",
+            "en": "Astana"
+          }
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "kk": "Кесене Түркістан қаласында орналасқан.",
+          "ru": "Мавзолей расположен в Туркестане.",
+          "en": "The mausoleum stands in Turkistan."
+        }
+      },
+      {
+        "question": {
+          "kk": "Нысанның сипаттамасында қай кезең көрсетілген?",
+          "ru": "Какой период указан в описании объекта?",
+          "en": "Which period is given in the site description?"
+        },
+        "options": [
+          {
+            "kk": "XI–XII ғасырлар",
+            "ru": "XI–XII века",
+            "en": "11th–12th centuries"
+          },
+          {
+            "kk": "1389–1405 жылдар",
+            "ru": "1389–1405 годы",
+            "en": "1389–1405"
+          },
+          {
+            "kk": "Қола дәуірі — XX ғасырдың басы",
+            "ru": "Бронзовый век — начало XX века",
+            "en": "Bronze Age – early 20th century"
+          },
+          {
+            "kk": "V–XVIII ғасырлар",
+            "ru": "V–XVIII века",
+            "en": "5th–18th centuries"
+          }
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "kk": "Құрылыс Әмір Темірдің бұйрығымен 1389–1405 жылдары жүргізілді.",
+          "ru": "Строительство велось по приказу Тимура в 1389–1405 годах.",
+          "en": "Construction took place in 1389–1405 on Timur’s orders."
+        }
+      },
+      {
+        "question": {
+          "kk": "Кесене кімге арналған?",
+          "ru": "Кому посвящён мавзолей?",
+          "en": "Who is commemorated by the mausoleum?"
+        },
+        "options": [
+          {
+            "kk": "Әл-Фараби",
+            "ru": "Аль-Фараби",
+            "en": "Al-Farabi"
+          },
+          {
+            "kk": "Абай Құнанбайұлы",
+            "ru": "Абай Кунанбаев",
+            "en": "Abai Qunanbaiuly"
+          },
+          {
+            "kk": "Қожа Ахмет Ясауи",
+            "ru": "Ходжа Ахмед Ясави",
+            "en": "Khoja Ahmed Yasawi"
+          },
+          {
+            "kk": "Шоқан Уәлиханов",
+            "ru": "Чокан Валиханов",
+            "en": "Shoqan Walikhanov"
+          }
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "kk": "Ғимарат XII ғасырдағы сопы Қожа Ахмет Ясауиге арналған.",
+          "ru": "Сооружение посвящено суфию XII века Ходже Ахмеду Ясави.",
+          "en": "The building honours the 12th-century Sufi teacher Khoja Ahmed Yasawi."
+        }
+      },
+      {
+        "question": {
+          "kk": "Кесене ЮНЕСКО тізіміне қай жылы енді?",
+          "ru": "В каком году мавзолей вошёл в список ЮНЕСКО?",
+          "en": "In which year was the mausoleum inscribed by UNESCO?"
+        },
+        "options": [
+          {
+            "kk": "1991",
+            "ru": "1991",
+            "en": "1991"
+          },
+          {
+            "kk": "2014",
+            "ru": "2014",
+            "en": "2014"
+          },
+          {
+            "kk": "2004",
+            "ru": "2004",
+            "en": "2004"
+          },
+          {
+            "kk": "2003",
+            "ru": "2003",
+            "en": "2003"
+          }
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "kk": "Кесене ЮНЕСКО тізіміне 2003 жылы енгізілді.",
+          "ru": "Мавзолей включён в список ЮНЕСКО в 2003 году.",
+          "en": "The mausoleum joined the UNESCO list in 2003."
+        }
+      },
+      {
+        "question": {
+          "kk": "3D үлгіде қай негізгі пішін көрсетілген?",
+          "ru": "Какая основная форма показана в 3D-модели?",
+          "en": "Which main form is shown in the 3D model?"
+        },
+        "options": [
+          {
+            "kk": "Биік портал мен күмбездер",
+            "ru": "Высокий портал и купола",
+            "en": "Tall portal and domes"
+          },
+          {
+            "kk": "Шаршы тұлға мен бұрыштық бағандар",
+            "ru": "Квадратный объём и угловые колонны",
+            "en": "Square body and corner columns"
+          },
+          {
+            "kk": "Қырлы, сүйір күмбез",
+            "ru": "Ребристый остроконечный купол",
+            "en": "A pointed, ribbed dome"
+          },
+          {
+            "kk": "Жартас бетіне қашалған белгілер",
+            "ru": "Знаки, выбитые на скале",
+            "en": "Marks carved into rock"
+          }
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "kk": "Биік кіреберіс портал мен күмбездер — кесененің танымал белгілері; үлгіде олардың жалпы пішіні көрсетілген.",
+          "ru": "Высокий входной портал и купола — узнаваемые черты мавзолея; модель передаёт их общую форму.",
+          "en": "A tall entrance portal and domes distinguish the mausoleum; the model shows their general shapes."
+        }
+      }
+    ]
+  },
+  {
+    "id": "aisha-bibi",
+    "title": {
+      "kk": "Айша бибі кесенесі",
+      "ru": "Мавзолей Айша-биби",
+      "en": "Aisha Bibi Mausoleum"
+    },
+    "region": {
+      "kk": "Жамбыл облысы",
+      "ru": "Жамбылская область",
+      "en": "Zhambyl Region"
+    },
+    "city": {
+      "kk": "Айша бибі ауылы, Тараз маңы",
+      "ru": "Село Айша-биби, близ Тараза",
+      "en": "Aisha Bibi village, near Taraz"
+    },
+    "category": "mausoleum",
+    "era": "medieval",
+    "period": {
+      "kk": "XI–XII ғасырлар",
+      "ru": "XI–XII века",
+      "en": "11th–12th centuries"
+    },
+    "coordinates": [
+      42.833789,
+      71.210469
+    ],
+    "description": {
+      "kk": "Тараз маңындағы бұл кесене оюланған терракота қаптамасымен ерекшеленеді. Қабырғаларындағы геометриялық және өсімдік өрнектері ортағасырлық шеберлердің өнерін танытады.",
+      "ru": "Мавзолей близ Тараза выделяется резной терракотовой облицовкой. Геометрические и растительные узоры на стенах показывают искусство средневековых мастеров.",
+      "en": "This mausoleum near Taraz is known for carved terracotta cladding. Geometric and plant motifs on its walls reveal the skill of medieval craftspeople."
+    },
+    "significance": {
+      "kk": "Ортағасырлық сәндік сәулеттің көрнекті үлгісі. Айша бибі мен Қарахан туралы хикая халық аңызы ретінде сақталған.",
+      "ru": "Выдающийся памятник средневековой декоративной архитектуры. История Айша-биби и Карахана сохранилась как народная легенда.",
+      "en": "An outstanding example of medieval decorative architecture. The story of Aisha Bibi and Karakhan survives as a folk legend."
+    },
+    "facts": [
+      {
+        "kk": "Кесене Жамбыл облысында, Тараздан шамамен 18 шақырым жерде орналасқан.",
+        "ru": "Мавзолей находится в Жамбылской области, примерно в 18 км от Тараза.",
+        "en": "The mausoleum is in Zhambyl Region, around 18 km from Taraz."
+      },
+      {
+        "kk": "Ескерткіш XI–XII ғасырларға жатады.",
+        "ru": "Памятник датируется XI–XII веками.",
+        "en": "The monument dates to the 11th–12th centuries."
+      },
+      {
+        "kk": "Қасбеті оюланған терракота тақташаларымен қапталған.",
+        "ru": "Фасад облицован резными терракотовыми плитками.",
+        "en": "Its façade is clad in carved terracotta tiles."
+      },
+      {
+        "kk": "Айша бибі мен Қараханның махаббат хикаясы — аңыз, расталған өмірбаян емес.",
+        "ru": "История любви Айша-биби и Карахана — легенда, а не подтверждённая биография.",
+        "en": "The love story of Aisha Bibi and Karakhan is a legend, not a verified biography."
+      },
+      {
+        "kk": "Кесененің шаршы тұлғасы мен бұрыштық бағандары үлгіде ықшам көрсетілген.",
+        "ru": "Квадратный объём мавзолея и угловые колонны упрощённо показаны в модели.",
+        "en": "The model simplifies the mausoleum’s square body and corner columns."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Kazakhstan Travel · Aisha Bibi",
+        "url": "https://kazakhstan.travel/en/attractions/196"
+      }
+    ],
+    "coordinateSources": [
+      {
+        "title": "Wikimedia Commons · Aisha Bibi coordinates",
+        "url": "https://commons.wikimedia.org/wiki/Category:Aisha_Bibi"
+      },
+      {
+        "title": "Wikipedia · Aisha Bibi coordinates",
+        "url": "https://en.wikipedia.org/wiki/Aisha_Bibi"
+      }
+    ],
+    "imageGallery": [
+      "/images/aisha-bibi.webp"
+    ],
+    "imageCredits": [
+      {
+        "author": "Дмитрий Кошелев",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Aisha_Bibi_mausoleum_front_01.jpg",
+        "accessed": "2026-09-21"
+      }
+    ],
+    "modelUrl": "/models/aisha-bibi.glb",
+    "modelAccuracy": "approximate",
+    "vrAvailable": true,
+    "hotspots": [
+      {
+        "position": [
+          -0.95,
+          2.1,
+          1.86
+        ],
+        "title": {
+          "kk": "Терракота өрнегі",
+          "ru": "Терракотовый орнамент",
+          "en": "Terracotta decoration"
+        },
+        "description": {
+          "kk": "Қасбеті оюланған терракота тақташаларымен қапталған.",
+          "ru": "Фасад облицован резными терракотовыми плитками.",
+          "en": "Its façade is clad in carved terracotta tiles."
+        }
+      },
+      {
+        "position": [
+          1.68,
+          1.75,
+          1.76
+        ],
+        "title": {
+          "kk": "Бұрыштық баған",
+          "ru": "Угловая колонна",
+          "en": "Corner column"
+        },
+        "description": {
+          "kk": "Кесененің шаршы тұлғасы мен бұрыштық бағандары үлгіде ықшам көрсетілген.",
+          "ru": "Квадратный объём мавзолея и угловые колонны упрощённо показаны в модели.",
+          "en": "The model simplifies the mausoleum’s square body and corner columns."
+        }
+      }
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "kk": "Бұл нысан қай өңірде орналасқан?",
+          "ru": "В каком регионе расположен этот объект?",
+          "en": "In which region is this site located?"
+        },
+        "options": [
+          {
+            "kk": "Алматы облысы",
+            "ru": "Алматинская область",
+            "en": "Almaty Region"
+          },
+          {
+            "kk": "Жамбыл облысы",
+            "ru": "Жамбылская область",
+            "en": "Zhambyl Region"
+          },
+          {
+            "kk": "Түркістан облысы",
+            "ru": "Туркестанская область",
+            "en": "Turkistan Region"
+          },
+          {
+            "kk": "Астана",
+            "ru": "Астана",
+            "en": "Astana"
+          }
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "kk": "Кесене Жамбыл облысында, Тараздан шамамен 18 шақырым жерде орналасқан.",
+          "ru": "Мавзолей находится в Жамбылской области, примерно в 18 км от Тараза.",
+          "en": "The mausoleum is in Zhambyl Region, around 18 km from Taraz."
+        }
+      },
+      {
+        "question": {
+          "kk": "Нысанның сипаттамасында қай кезең көрсетілген?",
+          "ru": "Какой период указан в описании объекта?",
+          "en": "Which period is given in the site description?"
+        },
+        "options": [
+          {
+            "kk": "Қола дәуірі — XX ғасырдың басы",
+            "ru": "Бронзовый век — начало XX века",
+            "en": "Bronze Age – early 20th century"
+          },
+          {
+            "kk": "V–XVIII ғасырлар",
+            "ru": "V–XVIII века",
+            "en": "5th–18th centuries"
+          },
+          {
+            "kk": "XI–XII ғасырлар",
+            "ru": "XI–XII века",
+            "en": "11th–12th centuries"
+          },
+          {
+            "kk": "VIII–IX ғасырлар",
+            "ru": "VIII–IX века",
+            "en": "8th–9th centuries"
+          }
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "kk": "Ескерткіш XI–XII ғасырларға жатады.",
+          "ru": "Памятник датируется XI–XII веками.",
+          "en": "The monument dates to the 11th–12th centuries."
+        }
+      },
+      {
+        "question": {
+          "kk": "Кесененің қасбеті немен безендірілген?",
+          "ru": "Чем украшен фасад мавзолея?",
+          "en": "What decorates the mausoleum’s façade?"
+        },
+        "options": [
+          {
+            "kk": "Күйдірілген кірпіш",
+            "ru": "Обожжённый кирпич",
+            "en": "Fired brick"
+          },
+          {
+            "kk": "Шамамен 5 000 петроглиф",
+            "ru": "Около 5 000 петроглифов",
+            "en": "Around 5,000 petroglyphs"
+          },
+          {
+            "kk": "Жібек жолындағы сауда мен қолөнер",
+            "ru": "Торговля и ремёсла на Шёлковом пути",
+            "en": "Silk Road trade and crafts"
+          },
+          {
+            "kk": "Оюланған терракота қаптамасы",
+            "ru": "Резная терракотовая облицовка",
+            "en": "Carved terracotta cladding"
+          }
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "kk": "Қасбеті оюланған терракота тақташаларымен қапталған.",
+          "ru": "Фасад облицован резными терракотовыми плитками.",
+          "en": "Its façade is clad in carved terracotta tiles."
+        }
+      },
+      {
+        "question": {
+          "kk": "Айша бибі мен Қарахан хикаясы қалай сипатталады?",
+          "ru": "Как определяется история Айша-биби и Карахана?",
+          "en": "How is the story of Aisha Bibi and Karakhan described?"
+        },
+        "options": [
+          {
+            "kk": "Халық аңызы",
+            "ru": "Народная легенда",
+            "en": "A folk legend"
+          },
+          {
+            "kk": "Расталған өмірбаян",
+            "ru": "Подтверждённая биография",
+            "en": "A verified biography"
+          },
+          {
+            "kk": "Қазіргі құрылыс есебі",
+            "ru": "Современный строительный отчёт",
+            "en": "A modern construction report"
+          },
+          {
+            "kk": "Геологиялық зерттеу",
+            "ru": "Геологическое исследование",
+            "en": "A geological study"
+          }
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "kk": "Айша бибі мен Қараханның махаббат хикаясы — аңыз, расталған өмірбаян емес.",
+          "ru": "История любви Айша-биби и Карахана — легенда, а не подтверждённая биография.",
+          "en": "The love story of Aisha Bibi and Karakhan is a legend, not a verified biography."
+        }
+      },
+      {
+        "question": {
+          "kk": "3D үлгіде қай негізгі пішін көрсетілген?",
+          "ru": "Какая основная форма показана в 3D-модели?",
+          "en": "Which main form is shown in the 3D model?"
+        },
+        "options": [
+          {
+            "kk": "Қырлы, сүйір күмбез",
+            "ru": "Ребристый остроконечный купол",
+            "en": "A pointed, ribbed dome"
+          },
+          {
+            "kk": "Шаршы тұлға мен бұрыштық бағандар",
+            "ru": "Квадратный объём и угловые колонны",
+            "en": "Square body and corner columns"
+          },
+          {
+            "kk": "Жартас бетіне қашалған белгілер",
+            "ru": "Знаки, выбитые на скале",
+            "en": "Marks carved into rock"
+          },
+          {
+            "kk": "Аласа қабырғалар мен бөлме іздері",
+            "ru": "Низкие стены и контуры помещений",
+            "en": "Low walls and room outlines"
+          }
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "kk": "Кесененің шаршы тұлғасы мен бұрыштық бағандары үлгіде ықшам көрсетілген.",
+          "ru": "Квадратный объём мавзолея и угловые колонны упрощённо показаны в модели.",
+          "en": "The model simplifies the mausoleum’s square body and corner columns."
+        }
+      }
+    ]
+  },
+  {
+    "id": "babadzha",
+    "title": {
+      "kk": "Бабаджа хатун кесенесі",
+      "ru": "Мавзолей Бабаджа-хатун",
+      "en": "Babaja Khatun Mausoleum"
+    },
+    "region": {
+      "kk": "Жамбыл облысы",
+      "ru": "Жамбылская область",
+      "en": "Zhambyl Region"
+    },
+    "city": {
+      "kk": "Тараз",
+      "ru": "Тараз",
+      "en": "Taraz"
+    },
+    "category": "mausoleum",
+    "era": "medieval",
+    "period": {
+      "kk": "XI–XII ғасырлар",
+      "ru": "XI–XII века",
+      "en": "11th–12th centuries"
+    },
+    "coordinates": [
+      42.833611,
+      71.210278
+    ],
+    "description": {
+      "kk": "Айша бибі кесенесінің жанындағы шағын кірпіш ғимарат қарапайым қабырғалары мен қырлы күмбезі арқылы танылады. Екі ескерткіш ортақ тарихи-мәдени кеңістік құрайды.",
+      "ru": "Небольшое кирпичное здание рядом с мавзолеем Айша-биби узнают по сдержанным стенам и ребристому куполу. Два памятника составляют общее историко-культурное пространство.",
+      "en": "This small brick building beside Aisha Bibi Mausoleum is recognised by its restrained walls and ribbed dome. The two monuments form a shared historic and cultural setting."
+    },
+    "significance": {
+      "kk": "Түркі-мұсылман сәулетінің ерте үлгілерінің бірі; кірпіш құрылысы мен күмбез пішіні ортағасырлық құрылыс тәсілдерін көрсетеді.",
+      "ru": "Один из ранних памятников тюрко-мусульманской архитектуры; кирпичная кладка и форма купола отражают средневековые строительные приёмы.",
+      "en": "An early monument of Turkic Muslim architecture; its brickwork and dome demonstrate medieval building techniques."
+    },
+    "facts": [
+      {
+        "kk": "Кесене Тараз маңында, Айша бибі кесенесінің жанында орналасқан.",
+        "ru": "Мавзолей стоит близ Тараза, рядом с мавзолеем Айша-биби.",
+        "en": "The mausoleum stands near Taraz, beside Aisha Bibi Mausoleum."
+      },
+      {
+        "kk": "Археология институтының дерегі оны XI–XII ғасырларға жатқызады.",
+        "ru": "Материал Института археологии относит памятник к XI–XII векам.",
+        "en": "The Institute of Archaeology dates the monument to the 11th–12th centuries."
+      },
+      {
+        "kk": "Ғимарат күйдірілген кірпіштен тұрғызылған.",
+        "ru": "Здание построено из обожжённого кирпича.",
+        "en": "The building is constructed from fired brick."
+      },
+      {
+        "kk": "Ескерткіш ортағасырлық түркі-мұсылман сәулетін танытады.",
+        "ru": "Памятник представляет средневековую тюрко-мусульманскую архитектуру.",
+        "en": "The monument represents medieval Turkic Muslim architecture."
+      },
+      {
+        "kk": "Қырлы, сүйір күмбезі — үлгіде көрсетілген басты белгі.",
+        "ru": "Ребристый остроконечный купол — основная черта, показанная в модели.",
+        "en": "Its pointed, ribbed dome is the main feature shown in the model."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Institute of Archaeology · Babaja Khatun",
+        "url": "https://archaeology.kz/en/heritages/87-babazhy-qatyn-kesenesi"
+      }
+    ],
+    "coordinateSources": [
+      {
+        "title": "Wikidata · Babazhi Khatun",
+        "url": "https://www.wikidata.org/wiki/Q2877789"
+      },
+      {
+        "title": "Kazakhstan Travel · Mausoleum complex",
+        "url": "https://kazakhstan.travel/de/attractions/487"
+      }
+    ],
+    "imageGallery": [
+      "/images/babadzha.webp"
+    ],
+    "imageCredits": [
+      {
+        "author": "Stomac",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Babazhi_Khatun_Mausoleum.JPG",
+        "accessed": "2026-09-21"
+      }
+    ],
+    "modelUrl": "/models/babadzha.glb",
+    "modelAccuracy": "approximate",
+    "vrAvailable": true,
+    "hotspots": [
+      {
+        "position": [
+          0.3,
+          4.5,
+          0.8
+        ],
+        "title": {
+          "kk": "Қырлы күмбез",
+          "ru": "Ребристый купол",
+          "en": "Ribbed dome"
+        },
+        "description": {
+          "kk": "Қырлы, сүйір күмбезі — үлгіде көрсетілген басты белгі.",
+          "ru": "Ребристый остроконечный купол — основная черта, показанная в модели.",
+          "en": "Its pointed, ribbed dome is the main feature shown in the model."
+        }
+      },
+      {
+        "position": [
+          1.2,
+          1.65,
+          1.71
+        ],
+        "title": {
+          "kk": "Кірпіш қабырға",
+          "ru": "Кирпичная стена",
+          "en": "Brick wall"
+        },
+        "description": {
+          "kk": "Ғимарат күйдірілген кірпіштен тұрғызылған.",
+          "ru": "Здание построено из обожжённого кирпича.",
+          "en": "The building is constructed from fired brick."
+        }
+      }
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "kk": "Бұл нысан қай өңірде орналасқан?",
+          "ru": "В каком регионе расположен этот объект?",
+          "en": "In which region is this site located?"
+        },
+        "options": [
+          {
+            "kk": "Алматы облысы",
+            "ru": "Алматинская область",
+            "en": "Almaty Region"
+          },
+          {
+            "kk": "Түркістан облысы",
+            "ru": "Туркестанская область",
+            "en": "Turkistan Region"
+          },
+          {
+            "kk": "Жамбыл облысы",
+            "ru": "Жамбылская область",
+            "en": "Zhambyl Region"
+          },
+          {
+            "kk": "Астана",
+            "ru": "Астана",
+            "en": "Astana"
+          }
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "kk": "Кесене Тараз маңында, Айша бибі кесенесінің жанында орналасқан.",
+          "ru": "Мавзолей стоит близ Тараза, рядом с мавзолеем Айша-биби.",
+          "en": "The mausoleum stands near Taraz, beside Aisha Bibi Mausoleum."
+        }
+      },
+      {
+        "question": {
+          "kk": "Нысанның сипаттамасында қай кезең көрсетілген?",
+          "ru": "Какой период указан в описании объекта?",
+          "en": "Which period is given in the site description?"
+        },
+        "options": [
+          {
+            "kk": "Қола дәуірі — XX ғасырдың басы",
+            "ru": "Бронзовый век — начало XX века",
+            "en": "Bronze Age – early 20th century"
+          },
+          {
+            "kk": "V–XVIII ғасырлар",
+            "ru": "V–XVIII века",
+            "en": "5th–18th centuries"
+          },
+          {
+            "kk": "VIII–IX ғасырлар",
+            "ru": "VIII–IX века",
+            "en": "8th–9th centuries"
+          },
+          {
+            "kk": "XI–XII ғасырлар",
+            "ru": "XI–XII века",
+            "en": "11th–12th centuries"
+          }
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "kk": "Археология институтының дерегі оны XI–XII ғасырларға жатқызады.",
+          "ru": "Материал Института археологии относит памятник к XI–XII векам.",
+          "en": "The Institute of Archaeology dates the monument to the 11th–12th centuries."
+        }
+      },
+      {
+        "question": {
+          "kk": "Кесене қандай материалдан салынған?",
+          "ru": "Из какого материала построен мавзолей?",
+          "en": "What material was used to build the mausoleum?"
+        },
+        "options": [
+          {
+            "kk": "Күйдірілген кірпіш",
+            "ru": "Обожжённый кирпич",
+            "en": "Fired brick"
+          },
+          {
+            "kk": "Шыны",
+            "ru": "Стекло",
+            "en": "Glass"
+          },
+          {
+            "kk": "Болат",
+            "ru": "Сталь",
+            "en": "Steel"
+          },
+          {
+            "kk": "Ағаш",
+            "ru": "Дерево",
+            "en": "Timber"
+          }
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "kk": "Ғимарат күйдірілген кірпіштен тұрғызылған.",
+          "ru": "Здание построено из обожжённого кирпича.",
+          "en": "The building is constructed from fired brick."
+        }
+      },
+      {
+        "question": {
+          "kk": "Бұл нысанның маңызы туралы қай тұжырым дұрыс?",
+          "ru": "Какое утверждение о значении объекта верно?",
+          "en": "Which statement about the site’s significance is correct?"
+        },
+        "options": [
+          {
+            "kk": "2004 жылы ЮНЕСКО тізіміне енді",
+            "ru": "Вошёл в список ЮНЕСКО в 2004 году",
+            "en": "UNESCO inscription in 2004"
+          },
+          {
+            "kk": "Түркі-мұсылман сәулеті",
+            "ru": "Тюрко-мусульманская архитектура",
+            "en": "Turkic Muslim architecture"
+          },
+          {
+            "kk": "Ортағасырлық қаланың күнделікті өмірі",
+            "ru": "Повседневная жизнь средневекового города",
+            "en": "Everyday life in a medieval city"
+          },
+          {
+            "kk": "ЮНЕСКО-ның Жібек жолы нысаны",
+            "ru": "Объект ЮНЕСКО «Шёлковый путь»",
+            "en": "UNESCO Silk Roads property"
+          }
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "kk": "Ескерткіш ортағасырлық түркі-мұсылман сәулетін танытады.",
+          "ru": "Памятник представляет средневековую тюрко-мусульманскую архитектуру.",
+          "en": "The monument represents medieval Turkic Muslim architecture."
+        }
+      },
+      {
+        "question": {
+          "kk": "3D үлгіде қай негізгі пішін көрсетілген?",
+          "ru": "Какая основная форма показана в 3D-модели?",
+          "en": "Which main form is shown in the 3D model?"
+        },
+        "options": [
+          {
+            "kk": "Жартас бетіне қашалған белгілер",
+            "ru": "Знаки, выбитые на скале",
+            "en": "Marks carved into rock"
+          },
+          {
+            "kk": "Аласа қабырғалар мен бөлме іздері",
+            "ru": "Низкие стены и контуры помещений",
+            "en": "Low walls and room outlines"
+          },
+          {
+            "kk": "Қырлы, сүйір күмбез",
+            "ru": "Ребристый остроконечный купол",
+            "en": "A pointed, ribbed dome"
+          },
+          {
+            "kk": "Аула мен тас бөлме жоспары",
+            "ru": "Двор и план каменных помещений",
+            "en": "A courtyard and stone room layout"
+          }
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "kk": "Қырлы, сүйір күмбезі — үлгіде көрсетілген басты белгі.",
+          "ru": "Ребристый остроконечный купол — основная черта, показанная в модели.",
+          "en": "Its pointed, ribbed dome is the main feature shown in the model."
+        }
+      }
+    ]
+  },
+  {
+    "id": "tamgaly",
+    "title": {
+      "kk": "Таңбалы петроглифтері",
+      "ru": "Петроглифы Тамгалы",
+      "en": "Tanbaly Petroglyphs"
+    },
+    "region": {
+      "kk": "Алматы облысы",
+      "ru": "Алматинская область",
+      "en": "Almaty Region"
+    },
+    "city": {
+      "kk": "Шу–Іле таулары",
+      "ru": "Чу-Илийские горы",
+      "en": "Chu-Ili Mountains"
+    },
+    "category": "archaeology",
+    "era": "ancient",
+    "period": {
+      "kk": "Қола дәуірі — XX ғасырдың басы",
+      "ru": "Бронзовый век — начало XX века",
+      "en": "Bronze Age – early 20th century"
+    },
+    "coordinates": [
+      43.803333,
+      75.535
+    ],
+    "description": {
+      "kk": "Шу–Іле тауларындағы жартастарда мыңдаған сурет сақталған. Адамдар, жануарлар және күнбасты бейнелер ежелгі қауымдардың дүниетанымынан сыр шертеді.",
+      "ru": "На скалах Чу-Илийских гор сохранились тысячи изображений. Люди, животные и солнцеголовые фигуры рассказывают о мировоззрении древних сообществ.",
+      "en": "Thousands of carvings survive on rocks in the Chu-Ili Mountains. Human, animal and sun-headed figures offer insights into ancient communities and their beliefs."
+    },
+    "significance": {
+      "kk": "2004 жылы ЮНЕСКО Дүниежүзілік мұра тізіміне енді. Бұл Таңбалы кешені Іле бойындағы Таңбалытас ескерткішінен бөлек.",
+      "ru": "Включён в Список всемирного наследия ЮНЕСКО в 2004 году. Этот комплекс Тамгалы отличается от памятника Тамгалы-Тас на реке Или.",
+      "en": "Inscribed on the UNESCO World Heritage List in 2004. Tanbaly is a different site from Tamgaly-Tas on the Ili River."
+    },
+    "facts": [
+      {
+        "kk": "Таңбалы Алматы облысының Шу–Іле тауларында орналасқан.",
+        "ru": "Тамгалы расположен в Чу-Илийских горах Алматинской области.",
+        "en": "Tanbaly lies in the Chu-Ili Mountains of Almaty Region."
+      },
+      {
+        "kk": "Суреттер қола дәуірінен XX ғасырдың басына дейінгі кезеңдерді қамтиды.",
+        "ru": "Изображения охватывают время от бронзового века до начала XX века.",
+        "en": "The carvings span the Bronze Age to the early 20th century."
+      },
+      {
+        "kk": "Кешенде шамамен 5 000 жартас суреті бар.",
+        "ru": "В комплексе около 5 000 наскальных изображений.",
+        "en": "The site contains around 5,000 rock carvings."
+      },
+      {
+        "kk": "Таңбалы ЮНЕСКО тізіміне 2004 жылы енгізілді.",
+        "ru": "Тамгалы включён в список ЮНЕСКО в 2004 году.",
+        "en": "Tanbaly joined the UNESCO list in 2004."
+      },
+      {
+        "kk": "Петроглифтер жартас бетіне қашалған; үлгідегі белгілер — оқу үшін жасалған ықшам суреттер.",
+        "ru": "Петроглифы выбиты на поверхности скал; знаки на модели — учебные схематические изображения.",
+        "en": "Petroglyphs are carved into rock faces; the marks on the model are schematic educational illustrations."
+      }
+    ],
+    "sources": [
+      {
+        "title": "UNESCO · Tanbaly",
+        "url": "https://whc.unesco.org/en/list/1145/"
+      }
+    ],
+    "coordinateSources": [
+      {
+        "title": "UNESCO · N43 48 12 E75 32 6",
+        "url": "https://whc.unesco.org/en/list/1145/"
+      },
+      {
+        "title": "UNESCO · Nomination map",
+        "url": "https://whc.unesco.org/en/list/1145/maps/"
+      }
+    ],
+    "imageGallery": [
+      "/images/tamgaly.webp"
+    ],
+    "imageCredits": [
+      {
+        "author": "Stomac",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Tamgaly_main_petroglyph.jpg",
+        "accessed": "2026-09-21"
+      }
+    ],
+    "modelUrl": "/models/tamgaly.glb",
+    "modelAccuracy": "approximate",
+    "vrAvailable": true,
+    "hotspots": [
+      {
+        "position": [
+          -0.65,
+          2.96,
+          0.26
+        ],
+        "title": {
+          "kk": "Жартас суреттері",
+          "ru": "Наскальные изображения",
+          "en": "Rock carvings"
+        },
+        "description": {
+          "kk": "Кешенде шамамен 5 000 жартас суреті бар.",
+          "ru": "В комплексе около 5 000 наскальных изображений.",
+          "en": "The site contains around 5,000 rock carvings."
+        }
+      },
+      {
+        "position": [
+          2.2,
+          1.8,
+          -0.1
+        ],
+        "title": {
+          "kk": "Табиғи жартас",
+          "ru": "Природная скала",
+          "en": "Natural rock face"
+        },
+        "description": {
+          "kk": "Петроглифтер жартас бетіне қашалған; үлгідегі белгілер — оқу үшін жасалған ықшам суреттер.",
+          "ru": "Петроглифы выбиты на поверхности скал; знаки на модели — учебные схематические изображения.",
+          "en": "Petroglyphs are carved into rock faces; the marks on the model are schematic educational illustrations."
+        }
+      }
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "kk": "Бұл нысан қай өңірде орналасқан?",
+          "ru": "В каком регионе расположен этот объект?",
+          "en": "In which region is this site located?"
+        },
+        "options": [
+          {
+            "kk": "Түркістан облысы",
+            "ru": "Туркестанская область",
+            "en": "Turkistan Region"
+          },
+          {
+            "kk": "Жамбыл облысы",
+            "ru": "Жамбылская область",
+            "en": "Zhambyl Region"
+          },
+          {
+            "kk": "Астана",
+            "ru": "Астана",
+            "en": "Astana"
+          },
+          {
+            "kk": "Алматы облысы",
+            "ru": "Алматинская область",
+            "en": "Almaty Region"
+          }
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "kk": "Таңбалы Алматы облысының Шу–Іле тауларында орналасқан.",
+          "ru": "Тамгалы расположен в Чу-Илийских горах Алматинской области.",
+          "en": "Tanbaly lies in the Chu-Ili Mountains of Almaty Region."
+        }
+      },
+      {
+        "question": {
+          "kk": "Нысанның сипаттамасында қай кезең көрсетілген?",
+          "ru": "Какой период указан в описании объекта?",
+          "en": "Which period is given in the site description?"
+        },
+        "options": [
+          {
+            "kk": "Қола дәуірі — XX ғасырдың басы",
+            "ru": "Бронзовый век — начало XX века",
+            "en": "Bronze Age – early 20th century"
+          },
+          {
+            "kk": "V–XVIII ғасырлар",
+            "ru": "V–XVIII века",
+            "en": "5th–18th centuries"
+          },
+          {
+            "kk": "VIII–IX ғасырлар",
+            "ru": "VIII–IX века",
+            "en": "8th–9th centuries"
+          },
+          {
+            "kk": "2002 жыл",
+            "ru": "2002 год",
+            "en": "2002"
+          }
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "kk": "Суреттер қола дәуірінен XX ғасырдың басына дейінгі кезеңдерді қамтиды.",
+          "ru": "Изображения охватывают время от бронзового века до начала XX века.",
+          "en": "The carvings span the Bronze Age to the early 20th century."
+        }
+      },
+      {
+        "question": {
+          "kk": "Кешенде шамамен қанша жартас суреті бар?",
+          "ru": "Примерно сколько наскальных изображений в комплексе?",
+          "en": "Approximately how many rock carvings are at the site?"
+        },
+        "options": [
+          {
+            "kk": "Шамамен 50",
+            "ru": "Около 50",
+            "en": "Around 50"
+          },
+          {
+            "kk": "Шамамен 5 000 петроглиф",
+            "ru": "Около 5 000 петроглифов",
+            "en": "Around 5,000 petroglyphs"
+          },
+          {
+            "kk": "Шамамен 500",
+            "ru": "Около 500",
+            "en": "Around 500"
+          },
+          {
+            "kk": "Шамамен 50 000",
+            "ru": "Около 50 000",
+            "en": "Around 50,000"
+          }
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "kk": "Кешенде шамамен 5 000 жартас суреті бар.",
+          "ru": "В комплексе около 5 000 наскальных изображений.",
+          "en": "The site contains around 5,000 rock carvings."
+        }
+      },
+      {
+        "question": {
+          "kk": "Бұл нысанның маңызы туралы қай тұжырым дұрыс?",
+          "ru": "Какое утверждение о значении объекта верно?",
+          "en": "Which statement about the site’s significance is correct?"
+        },
+        "options": [
+          {
+            "kk": "Ортағасырлық қаланың күнделікті өмірі",
+            "ru": "Повседневная жизнь средневекового города",
+            "en": "Everyday life in a medieval city"
+          },
+          {
+            "kk": "ЮНЕСКО-ның Жібек жолы нысаны",
+            "ru": "Объект ЮНЕСКО «Шёлковый путь»",
+            "en": "UNESCO Silk Roads property"
+          },
+          {
+            "kk": "2004 жылы ЮНЕСКО тізіміне енді",
+            "ru": "Вошёл в список ЮНЕСКО в 2004 году",
+            "en": "UNESCO inscription in 2004"
+          },
+          {
+            "kk": "Көне дүниетаным мен қазіргі сәулеттің байланысы",
+            "ru": "Связь древнего мировоззрения и современной архитектуры",
+            "en": "A link between ancient cosmology and modern architecture"
+          }
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "kk": "Таңбалы ЮНЕСКО тізіміне 2004 жылы енгізілді.",
+          "ru": "Тамгалы включён в список ЮНЕСКО в 2004 году.",
+          "en": "Tanbaly joined the UNESCO list in 2004."
+        }
+      },
+      {
+        "question": {
+          "kk": "3D үлгіде қай негізгі пішін көрсетілген?",
+          "ru": "Какая основная форма показана в 3D-модели?",
+          "en": "Which main form is shown in the 3D model?"
+        },
+        "options": [
+          {
+            "kk": "Аласа қабырғалар мен бөлме іздері",
+            "ru": "Низкие стены и контуры помещений",
+            "en": "Low walls and room outlines"
+          },
+          {
+            "kk": "Аула мен тас бөлме жоспары",
+            "ru": "Двор и план каменных помещений",
+            "en": "A courtyard and stone room layout"
+          },
+          {
+            "kk": "Алтын түстес шар",
+            "ru": "Золотистый шар",
+            "en": "A golden sphere"
+          },
+          {
+            "kk": "Жартас бетіне қашалған белгілер",
+            "ru": "Знаки, выбитые на скале",
+            "en": "Marks carved into rock"
+          }
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "kk": "Петроглифтер жартас бетіне қашалған; үлгідегі белгілер — оқу үшін жасалған ықшам суреттер.",
+          "ru": "Петроглифы выбиты на поверхности скал; знаки на модели — учебные схематические изображения.",
+          "en": "Petroglyphs are carved into rock faces; the marks on the model are schematic educational illustrations."
+        }
+      }
+    ]
+  },
+  {
+    "id": "otrar",
+    "title": {
+      "kk": "Отырар қалашығы",
+      "ru": "Городище Отырар",
+      "en": "Otrar Archaeological Site"
+    },
+    "region": {
+      "kk": "Түркістан облысы",
+      "ru": "Туркестанская область",
+      "en": "Turkistan Region"
+    },
+    "city": {
+      "kk": "Шәуілдір маңы",
+      "ru": "Близ Шаульдера",
+      "en": "Near Shaulder"
+    },
+    "category": "archaeology",
+    "era": "medieval",
+    "period": {
+      "kk": "V–XVIII ғасырлар",
+      "ru": "V–XVIII века",
+      "en": "5th–18th centuries"
+    },
+    "coordinates": [
+      42.852822,
+      68.302987
+    ],
+    "description": {
+      "kk": "Сырдария маңындағы Отырар — Ұлы Жібек жолының қалалық мәдениетін танытатын археологиялық ескерткіш. Қазбалардан тұрғын үйлер, қолөнер бұйымдары мен көшелердің іздері табылған.",
+      "ru": "Отырар близ Сырдарьи — археологический памятник городской культуры Великого шёлкового пути. Раскопки выявили жилые постройки, ремесленные изделия и следы улиц.",
+      "en": "Otrar, near the Syr Darya, preserves evidence of urban life along the Silk Roads. Excavations have revealed homes, craft objects and traces of streets."
+    },
+    "significance": {
+      "kk": "Сауда, қолөнер және отырықшы тіршіліктің ұзақ тарихын зерттеуге мүмкіндік береді. Қала XIII ғасырдан кейін де өмір сүрген.",
+      "ru": "Позволяет изучать долгую историю торговли, ремёсел и оседлой жизни. Город продолжал существовать и после XIII века.",
+      "en": "The site helps researchers study a long history of trade, crafts and settled life. The city continued to exist after the 13th century."
+    },
+    "facts": [
+      {
+        "kk": "Отырар Түркістан облысында, Шәуілдір ауылы маңында орналасқан.",
+        "ru": "Отырар находится в Туркестанской области, близ села Шаульдер.",
+        "en": "Otrar is in Turkistan Region, near Shaulder."
+      },
+      {
+        "kk": "UCL зерттеу дерегіне сай қалада кемінде V ғасырдан XVIII ғасырға дейін тіршілік болған.",
+        "ru": "По исследовательским данным UCL, город был населён как минимум с V до XVIII века.",
+        "en": "UCL research dates occupation from at least the 5th to the 18th century."
+      },
+      {
+        "kk": "Отырар Ұлы Жібек жолындағы сауда және қолөнер орталығы болған.",
+        "ru": "Отырар был центром торговли и ремёсел на Великом шёлковом пути.",
+        "en": "Otrar was a centre of trade and crafts on the Silk Roads."
+      },
+      {
+        "kk": "Қазба заттары ортағасырлық қала тұрғындарының күнделікті өмірін зерттеуге көмектеседі.",
+        "ru": "Находки помогают изучать повседневную жизнь средневековых горожан.",
+        "en": "Archaeological finds help reconstruct everyday life in a medieval city."
+      },
+      {
+        "kk": "Үлгідегі аласа қабырғалар мен бөлме іздері археологиялық қалдықтарды шартты түрде көрсетеді.",
+        "ru": "Низкие стены и контуры помещений в модели условно показывают археологические остатки.",
+        "en": "Low walls and room outlines in the model schematically represent archaeological remains."
+      }
+    ],
+    "sources": [
+      {
+        "title": "UCL · Otrar geospatial research",
+        "url": "https://rdr.ucl.ac.uk/articles/dataset/Otrar_archaeological_site_digital_geospatial_dataset_2016/11690835"
+      },
+      {
+        "title": "Gylym Ordasy · Medieval Kazakhstan",
+        "url": "https://www.gylymordasy.gov.kz/en/museum/muzey-arkheologii/medieval-kazakhstan/"
+      }
+    ],
+    "coordinateSources": [
+      {
+        "title": "UCL · Field survey coordinates",
+        "url": "https://rdr.ucl.ac.uk/articles/dataset/Otrar_archaeological_site_digital_geospatial_dataset_2016/11690835"
+      },
+      {
+        "title": "Wikipedia · Archaeological site coordinates",
+        "url": "https://en.wikipedia.org/wiki/Otrar"
+      }
+    ],
+    "imageGallery": [
+      "/images/otrar.webp"
+    ],
+    "imageCredits": [
+      {
+        "author": "Coopypasted",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%89%D0%B5_%D0%9E%D1%82%D1%8B%D1%80%D0%B0%D1%80_%D1%81_%D0%B2%D0%BE%D0%B7%D0%B4%D1%83%D1%85%D0%B0.jpg",
+        "accessed": "2026-09-21"
+      }
+    ],
+    "modelUrl": "/models/otrar.glb",
+    "modelAccuracy": "approximate",
+    "vrAvailable": true,
+    "hotspots": [
+      {
+        "position": [
+          0.9,
+          1.7,
+          2.2
+        ],
+        "title": {
+          "kk": "Қала қабырғалары",
+          "ru": "Городские стены",
+          "en": "City walls"
+        },
+        "description": {
+          "kk": "Отырар Ұлы Жібек жолындағы сауда және қолөнер орталығы болған.",
+          "ru": "Отырар был центром торговли и ремёсел на Великом шёлковом пути.",
+          "en": "Otrar was a centre of trade and crafts on the Silk Roads."
+        }
+      },
+      {
+        "position": [
+          1.5,
+          0.7,
+          0.5
+        ],
+        "title": {
+          "kk": "Қазба аумағы",
+          "ru": "Зона раскопок",
+          "en": "Excavation area"
+        },
+        "description": {
+          "kk": "Үлгідегі аласа қабырғалар мен бөлме іздері археологиялық қалдықтарды шартты түрде көрсетеді.",
+          "ru": "Низкие стены и контуры помещений в модели условно показывают археологические остатки.",
+          "en": "Low walls and room outlines in the model schematically represent archaeological remains."
+        }
+      }
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "kk": "Бұл нысан қай өңірде орналасқан?",
+          "ru": "В каком регионе расположен этот объект?",
+          "en": "In which region is this site located?"
+        },
+        "options": [
+          {
+            "kk": "Түркістан облысы",
+            "ru": "Туркестанская область",
+            "en": "Turkistan Region"
+          },
+          {
+            "kk": "Жамбыл облысы",
+            "ru": "Жамбылская область",
+            "en": "Zhambyl Region"
+          },
+          {
+            "kk": "Астана",
+            "ru": "Астана",
+            "en": "Astana"
+          },
+          {
+            "kk": "Алматы облысы",
+            "ru": "Алматинская область",
+            "en": "Almaty Region"
+          }
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "kk": "Отырар Түркістан облысында, Шәуілдір ауылы маңында орналасқан.",
+          "ru": "Отырар находится в Туркестанской области, близ села Шаульдер.",
+          "en": "Otrar is in Turkistan Region, near Shaulder."
+        }
+      },
+      {
+        "question": {
+          "kk": "Нысанның сипаттамасында қай кезең көрсетілген?",
+          "ru": "Какой период указан в описании объекта?",
+          "en": "Which period is given in the site description?"
+        },
+        "options": [
+          {
+            "kk": "VIII–IX ғасырлар",
+            "ru": "VIII–IX века",
+            "en": "8th–9th centuries"
+          },
+          {
+            "kk": "V–XVIII ғасырлар",
+            "ru": "V–XVIII века",
+            "en": "5th–18th centuries"
+          },
+          {
+            "kk": "2002 жыл",
+            "ru": "2002 год",
+            "en": "2002"
+          },
+          {
+            "kk": "2010 жыл",
+            "ru": "2010 год",
+            "en": "2010"
+          }
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "kk": "UCL зерттеу дерегіне сай қалада кемінде V ғасырдан XVIII ғасырға дейін тіршілік болған.",
+          "ru": "По исследовательским данным UCL, город был населён как минимум с V до XVIII века.",
+          "en": "UCL research dates occupation from at least the 5th to the 18th century."
+        }
+      },
+      {
+        "question": {
+          "kk": "Бұл нысанның қай ерекшелігі дұрыс?",
+          "ru": "Какая особенность этого объекта указана верно?",
+          "en": "Which statement correctly characterises this site?"
+        },
+        "options": [
+          {
+            "kk": "Қызыл құмтас блоктары",
+            "ru": "Блоки красного песчаника",
+            "en": "Red sandstone blocks"
+          },
+          {
+            "kk": "Өмір ағашы туралы аңыз",
+            "ru": "Легенда о Древе жизни",
+            "en": "The Tree of Life legend"
+          },
+          {
+            "kk": "Жібек жолындағы сауда мен қолөнер",
+            "ru": "Торговля и ремёсла на Шёлковом пути",
+            "en": "Silk Road trade and crafts"
+          },
+          {
+            "kk": "Норман Фостер",
+            "ru": "Норман Фостер",
+            "en": "Norman Foster"
+          }
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "kk": "Отырар Ұлы Жібек жолындағы сауда және қолөнер орталығы болған.",
+          "ru": "Отырар был центром торговли и ремёсел на Великом шёлковом пути.",
+          "en": "Otrar was a centre of trade and crafts on the Silk Roads."
+        }
+      },
+      {
+        "question": {
+          "kk": "Бұл нысанның маңызы туралы қай тұжырым дұрыс?",
+          "ru": "Какое утверждение о значении объекта верно?",
+          "en": "Which statement about the site’s significance is correct?"
+        },
+        "options": [
+          {
+            "kk": "ЮНЕСКО-ның Жібек жолы нысаны",
+            "ru": "Объект ЮНЕСКО «Шёлковый путь»",
+            "en": "UNESCO Silk Roads property"
+          },
+          {
+            "kk": "Көне дүниетаным мен қазіргі сәулеттің байланысы",
+            "ru": "Связь древнего мировоззрения и современной архитектуры",
+            "en": "A link between ancient cosmology and modern architecture"
+          },
+          {
+            "kk": "Сауда және ойын-сауық",
+            "ru": "Торговля и развлечения",
+            "en": "Shopping and entertainment"
+          },
+          {
+            "kk": "Ортағасырлық қаланың күнделікті өмірі",
+            "ru": "Повседневная жизнь средневекового города",
+            "en": "Everyday life in a medieval city"
+          }
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "kk": "Қазба заттары ортағасырлық қала тұрғындарының күнделікті өмірін зерттеуге көмектеседі.",
+          "ru": "Находки помогают изучать повседневную жизнь средневековых горожан.",
+          "en": "Archaeological finds help reconstruct everyday life in a medieval city."
+        }
+      },
+      {
+        "question": {
+          "kk": "3D үлгіде қай негізгі пішін көрсетілген?",
+          "ru": "Какая основная форма показана в 3D-модели?",
+          "en": "Which main form is shown in the 3D model?"
+        },
+        "options": [
+          {
+            "kk": "Аласа қабырғалар мен бөлме іздері",
+            "ru": "Низкие стены и контуры помещений",
+            "en": "Low walls and room outlines"
+          },
+          {
+            "kk": "Аула мен тас бөлме жоспары",
+            "ru": "Двор и план каменных помещений",
+            "en": "A courtyard and stone room layout"
+          },
+          {
+            "kk": "Алтын түстес шар",
+            "ru": "Золотистый шар",
+            "en": "A golden sphere"
+          },
+          {
+            "kk": "Шатыр тәрізді жабын мен тірек",
+            "ru": "Шатровая оболочка и шпиль",
+            "en": "A tent-like enclosure and mast"
+          }
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "kk": "Үлгідегі аласа қабырғалар мен бөлме іздері археологиялық қалдықтарды шартты түрде көрсетеді.",
+          "ru": "Низкие стены и контуры помещений в модели условно показывают археологические остатки.",
+          "en": "Low walls and room outlines in the model schematically represent archaeological remains."
+        }
+      }
+    ]
+  },
+  {
+    "id": "akyrtas",
+    "title": {
+      "kk": "Ақыртас кешені",
+      "ru": "Комплекс Акыртас",
+      "en": "Akyrtas Complex"
+    },
+    "region": {
+      "kk": "Жамбыл облысы",
+      "ru": "Жамбылская область",
+      "en": "Zhambyl Region"
+    },
+    "city": {
+      "kk": "Тараздың шығысы",
+      "ru": "К востоку от Тараза",
+      "en": "East of Taraz"
+    },
+    "category": "archaeology",
+    "era": "medieval",
+    "period": {
+      "kk": "VIII–IX ғасырлар",
+      "ru": "VIII–IX века",
+      "en": "8th–9th centuries"
+    },
+    "coordinates": [
+      42.953611,
+      71.802778
+    ],
+    "description": {
+      "kk": "Ақыртас — ірі қызыл құмтас блоктарынан салынған ғимараттың қалдықтары. Аулалар мен бөлмелердің жоспары кешеннің ауқымын аңғартады; оның бастапқы қызметі туралы ғылыми пікірлер әртүрлі.",
+      "ru": "Акыртас — остатки сооружения из крупных блоков красного песчаника. План дворов и помещений показывает масштаб комплекса; о его первоначальном назначении существуют разные научные версии.",
+      "en": "Akyrtas preserves the remains of a monumental structure built from large red sandstone blocks. Courtyards and room layouts reveal its scale; its original purpose remains the subject of scholarly discussion."
+    },
+    "significance": {
+      "kk": "2014 жылы ЮНЕСКО тізіміне енген Жібек жолының Чанъань–Тянь-Шань дәлізінің құрамдас бөлігі.",
+      "ru": "Компонент объекта ЮНЕСКО «Шёлковый путь: сеть маршрутов Чанъань — Тянь-Шань», включённого в список в 2014 году.",
+      "en": "A component of the Silk Roads: Chang’an–Tianshan Corridor World Heritage property, inscribed in 2014."
+    },
+    "facts": [
+      {
+        "kk": "Ақыртас Жамбыл облысында, Тараздан шығысқа қарай орналасқан.",
+        "ru": "Акыртас находится в Жамбылской области, к востоку от Тараза.",
+        "en": "Akyrtas is in Zhambyl Region, east of Taraz."
+      },
+      {
+        "kk": "Археология институты негізгі құрылысты VIII–IX ғасырларға жатқызады.",
+        "ru": "Институт археологии датирует основное сооружение VIII–IX веками.",
+        "en": "The Institute of Archaeology dates the principal construction to the 8th–9th centuries."
+      },
+      {
+        "kk": "Құрылысқа ірі қызыл құмтас блоктары қолданылған.",
+        "ru": "Для строительства использовались крупные блоки красного песчаника.",
+        "en": "Large red sandstone blocks were used in construction."
+      },
+      {
+        "kk": "Ақыртас 2014 жылдан ЮНЕСКО-ның Жібек жолы нысанына кіреді.",
+        "ru": "С 2014 года Акыртас входит в объект ЮНЕСКО, посвящённый Шёлковому пути.",
+        "en": "Akyrtas has formed part of the UNESCO Silk Roads property since 2014."
+      },
+      {
+        "kk": "Үлгіден тас блоктары мен ауланы қоршаған бөлме жоспарын байқауға болады.",
+        "ru": "В модели можно увидеть каменные блоки и план помещений вокруг двора.",
+        "en": "The model shows stone blocks and rooms arranged around a courtyard."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Institute of Archaeology · Akyrtas",
+        "url": "https://archaeology.kz/en/heritages/85-aqyrtas-arheologiyalyq-kesheni"
+      },
+      {
+        "title": "Ancient Taraz Museum · Akyrtas",
+        "url": "https://ezhelgi-taraz.kz/en/page/a-yrtas-s-ulet-arkheologiyaly-kesheni-viii-xiv"
+      },
+      {
+        "title": "UNESCO · Silk Roads components",
+        "url": "https://whc.unesco.org/en/list/1442/maps/"
+      }
+    ],
+    "coordinateSources": [
+      {
+        "title": "UNESCO · Component 1442-016",
+        "url": "https://whc.unesco.org/en/list/1442/maps/"
+      },
+      {
+        "title": "Wikidata · Akyrtas location",
+        "url": "https://www.wikidata.org/wiki/Q4060347"
+      }
+    ],
+    "imageGallery": [
+      "/images/akyrtas.webp"
+    ],
+    "imageCredits": [
+      {
+        "author": "Yakov Fedorov",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Akyrtas.JPG",
+        "accessed": "2026-09-21"
+      }
+    ],
+    "modelUrl": "/models/akyrtas.glb",
+    "modelAccuracy": "approximate",
+    "vrAvailable": true,
+    "hotspots": [
+      {
+        "position": [
+          2.2,
+          1.2,
+          2.6
+        ],
+        "title": {
+          "kk": "Тас блоктары",
+          "ru": "Каменные блоки",
+          "en": "Stone blocks"
+        },
+        "description": {
+          "kk": "Құрылысқа ірі қызыл құмтас блоктары қолданылған.",
+          "ru": "Для строительства использовались крупные блоки красного песчаника.",
+          "en": "Large red sandstone blocks were used in construction."
+        }
+      },
+      {
+        "position": [
+          0,
+          0.6,
+          0.2
+        ],
+        "title": {
+          "kk": "Орталық аула",
+          "ru": "Центральный двор",
+          "en": "Central courtyard"
+        },
+        "description": {
+          "kk": "Үлгіден тас блоктары мен ауланы қоршаған бөлме жоспарын байқауға болады.",
+          "ru": "В модели можно увидеть каменные блоки и план помещений вокруг двора.",
+          "en": "The model shows stone blocks and rooms arranged around a courtyard."
+        }
+      }
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "kk": "Бұл нысан қай өңірде орналасқан?",
+          "ru": "В каком регионе расположен этот объект?",
+          "en": "In which region is this site located?"
+        },
+        "options": [
+          {
+            "kk": "Астана",
+            "ru": "Астана",
+            "en": "Astana"
+          },
+          {
+            "kk": "Жамбыл облысы",
+            "ru": "Жамбылская область",
+            "en": "Zhambyl Region"
+          },
+          {
+            "kk": "Алматы облысы",
+            "ru": "Алматинская область",
+            "en": "Almaty Region"
+          },
+          {
+            "kk": "Маңғыстау облысы",
+            "ru": "Мангистауская область",
+            "en": "Mangystau Region"
+          }
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "kk": "Ақыртас Жамбыл облысында, Тараздан шығысқа қарай орналасқан.",
+          "ru": "Акыртас находится в Жамбылской области, к востоку от Тараза.",
+          "en": "Akyrtas is in Zhambyl Region, east of Taraz."
+        }
+      },
+      {
+        "question": {
+          "kk": "Нысанның сипаттамасында қай кезең көрсетілген?",
+          "ru": "Какой период указан в описании объекта?",
+          "en": "Which period is given in the site description?"
+        },
+        "options": [
+          {
+            "kk": "2002 жыл",
+            "ru": "2002 год",
+            "en": "2002"
+          },
+          {
+            "kk": "2010 жыл",
+            "ru": "2010 год",
+            "en": "2010"
+          },
+          {
+            "kk": "VIII–IX ғасырлар",
+            "ru": "VIII–IX века",
+            "en": "8th–9th centuries"
+          },
+          {
+            "kk": "Ұзақ геологиялық уақыт",
+            "ru": "Длительное геологическое время",
+            "en": "A long geological timescale"
+          }
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "kk": "Археология институты негізгі құрылысты VIII–IX ғасырларға жатқызады.",
+          "ru": "Институт археологии датирует основное сооружение VIII–IX веками.",
+          "en": "The Institute of Archaeology dates the principal construction to the 8th–9th centuries."
+        }
+      },
+      {
+        "question": {
+          "kk": "Бұл нысанның қай ерекшелігі дұрыс?",
+          "ru": "Какая особенность этого объекта указана верно?",
+          "en": "Which statement correctly characterises this site?"
+        },
+        "options": [
+          {
+            "kk": "Өмір ағашы туралы аңыз",
+            "ru": "Легенда о Древе жизни",
+            "en": "The Tree of Life legend"
+          },
+          {
+            "kk": "Норман Фостер",
+            "ru": "Норман Фостер",
+            "en": "Norman Foster"
+          },
+          {
+            "kk": "Қамалдар аңғары",
+            "ru": "Долина замков",
+            "en": "The Valley of Castles"
+          },
+          {
+            "kk": "Қызыл құмтас блоктары",
+            "ru": "Блоки красного песчаника",
+            "en": "Red sandstone blocks"
+          }
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "kk": "Құрылысқа ірі қызыл құмтас блоктары қолданылған.",
+          "ru": "Для строительства использовались крупные блоки красного песчаника.",
+          "en": "Large red sandstone blocks were used in construction."
+        }
+      },
+      {
+        "question": {
+          "kk": "Бұл нысанның маңызы туралы қай тұжырым дұрыс?",
+          "ru": "Какое утверждение о значении объекта верно?",
+          "en": "Which statement about the site’s significance is correct?"
+        },
+        "options": [
+          {
+            "kk": "ЮНЕСКО-ның Жібек жолы нысаны",
+            "ru": "Объект ЮНЕСКО «Шёлковый путь»",
+            "en": "UNESCO Silk Roads property"
+          },
+          {
+            "kk": "Көне дүниетаным мен қазіргі сәулеттің байланысы",
+            "ru": "Связь древнего мировоззрения и современной архитектуры",
+            "en": "A link between ancient cosmology and modern architecture"
+          },
+          {
+            "kk": "Сауда және ойын-сауық",
+            "ru": "Торговля и развлечения",
+            "en": "Shopping and entertainment"
+          },
+          {
+            "kk": "Су мен желдің мүжу әрекеті",
+            "ru": "Эрозия под действием воды и ветра",
+            "en": "Erosion by water and wind"
+          }
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "kk": "Ақыртас 2014 жылдан ЮНЕСКО-ның Жібек жолы нысанына кіреді.",
+          "ru": "С 2014 года Акыртас входит в объект ЮНЕСКО, посвящённый Шёлковому пути.",
+          "en": "Akyrtas has formed part of the UNESCO Silk Roads property since 2014."
+        }
+      },
+      {
+        "question": {
+          "kk": "3D үлгіде қай негізгі пішін көрсетілген?",
+          "ru": "Какая основная форма показана в 3D-модели?",
+          "en": "Which main form is shown in the 3D model?"
+        },
+        "options": [
+          {
+            "kk": "Алтын түстес шар",
+            "ru": "Золотистый шар",
+            "en": "A golden sphere"
+          },
+          {
+            "kk": "Аула мен тас бөлме жоспары",
+            "ru": "Двор и план каменных помещений",
+            "en": "A courtyard and stone room layout"
+          },
+          {
+            "kk": "Шатыр тәрізді жабын мен тірек",
+            "ru": "Шатровая оболочка и шпиль",
+            "en": "A tent-like enclosure and mast"
+          },
+          {
+            "kk": "Қызғылт жартастар арасындағы аңғар",
+            "ru": "Долина между красноватыми скалами",
+            "en": "A valley between reddish cliffs"
+          }
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "kk": "Үлгіден тас блоктары мен ауланы қоршаған бөлме жоспарын байқауға болады.",
+          "ru": "В модели можно увидеть каменные блоки и план помещений вокруг двора.",
+          "en": "The model shows stone blocks and rooms arranged around a courtyard."
+        }
+      }
+    ]
+  },
+  {
+    "id": "baiterek",
+    "title": {
+      "kk": "Бәйтерек монументі",
+      "ru": "Монумент «Байтерек»",
+      "en": "Baiterek Monument"
+    },
+    "region": {
+      "kk": "Астана",
+      "ru": "Астана",
+      "en": "Astana"
+    },
+    "city": {
+      "kk": "Астана",
+      "ru": "Астана",
+      "en": "Astana"
+    },
+    "category": "architecture",
+    "era": "modern",
+    "period": {
+      "kk": "2002 жыл",
+      "ru": "2002 год",
+      "en": "2002"
+    },
+    "coordinates": [
+      51.128333,
+      71.430556
+    ],
+    "description": {
+      "kk": "Астананың ең танымал нышандарының бірі. Ақ түсті тіректер жоғарыда алтын түстес шарды ұстап, өмір ағашы туралы аңызды сәулет тілімен бейнелейді.",
+      "ru": "Один из узнаваемых символов Астаны. Белые опоры несут золотистый шар, воплощая в архитектуре легенду о Древе жизни.",
+      "en": "One of Astana’s best-known landmarks. White supports hold a golden sphere, expressing the Tree of Life legend through architecture."
+    },
+    "significance": {
+      "kk": "Көшпенділер дүниетанымы мен қазіргі сәулетті байланыстырады. Сәулетші Ақмырза Рүстембеков жобалаған.",
+      "ru": "Соединяет мировоззрение кочевников с современной архитектурой. Проект разработал архитектор Акмырза Рустембеков.",
+      "en": "It connects nomadic cosmology with modern architecture. The monument was designed by architect Akmyrza Rustembekov."
+    },
+    "facts": [
+      {
+        "kk": "Бәйтерек Астананың Нұржол желекжолында орналасқан.",
+        "ru": "Байтерек расположен на бульваре Нуржол в Астане.",
+        "en": "Baiterek stands on Nurzhol Boulevard in Astana."
+      },
+      {
+        "kk": "Монумент 2002 жылы ашылды.",
+        "ru": "Монумент открыт в 2002 году.",
+        "en": "The monument opened in 2002."
+      },
+      {
+        "kk": "Бейнесі өмір ағашы мен Самұрық құстың алтын жұмыртқасы туралы аңызға сүйенеді.",
+        "ru": "Образ основан на легенде о Древе жизни и золотом яйце птицы Самрук.",
+        "en": "Its design draws on the legend of the Tree of Life and the Samruk bird’s golden egg."
+      },
+      {
+        "kk": "Бәйтерек көне дүниетаным мен заманауи сәулетті ұштастырады.",
+        "ru": "Байтерек объединяет древнее мировоззрение и современную архитектуру.",
+        "en": "Baiterek brings together ancient cosmology and modern architecture."
+      },
+      {
+        "kk": "Үлгінің жоғарғы жағындағы алтын түстес шар — монументтің негізгі белгісі.",
+        "ru": "Золотистый шар в верхней части модели — главный узнаваемый элемент монумента.",
+        "en": "The golden sphere at the top of the model is the monument’s defining feature."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Visit Astana · Бәйтерек",
+        "url": "https://www.visitastana.kz/kz/about-city/what-to-see/astana-b-yterek-monumenti/"
+      },
+      {
+        "title": "Kazakhstan Travel · Baiterek",
+        "url": "https://kazakhstan.travel/en/attractions/423"
+      },
+      {
+        "title": "OEI · Bayterek, opened in 2002",
+        "url": "https://oei.int/wp-content/uploads/2017/03/digital-appendix-01.pdf"
+      }
+    ],
+    "coordinateSources": [
+      {
+        "title": "Wikipedia · Monument coordinates",
+        "url": "https://en.wikipedia.org/wiki/Baiterek_(monument)"
+      },
+      {
+        "title": "GeoNames / GeoView · Bayterek tower",
+        "url": "https://kz.geoview.info/bayterek%2C12557028"
+      }
+    ],
+    "imageGallery": [
+      "/images/baiterek.webp"
+    ],
+    "imageCredits": [
+      {
+        "author": "Quarot",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "url": "https://commons.wikimedia.org/wiki/File:Baiterek_August.jpg",
+        "accessed": "2026-09-21"
+      }
+    ],
+    "modelUrl": "/models/baiterek.glb",
+    "modelAccuracy": "approximate",
+    "vrAvailable": true,
+    "hotspots": [
+      {
+        "position": [
+          0,
+          5.6,
+          1.03
+        ],
+        "title": {
+          "kk": "Алтын шар",
+          "ru": "Золотой шар",
+          "en": "Golden sphere"
+        },
+        "description": {
+          "kk": "Үлгінің жоғарғы жағындағы алтын түстес шар — монументтің негізгі белгісі.",
+          "ru": "Золотистый шар в верхней части модели — главный узнаваемый элемент монумента.",
+          "en": "The golden sphere at the top of the model is the monument’s defining feature."
+        }
+      },
+      {
+        "position": [
+          0.6,
+          3.6,
+          0.4
+        ],
+        "title": {
+          "kk": "Ағаш пішінді тіректер",
+          "ru": "Опоры в форме дерева",
+          "en": "Tree-like supports"
+        },
+        "description": {
+          "kk": "Бейнесі өмір ағашы мен Самұрық құстың алтын жұмыртқасы туралы аңызға сүйенеді.",
+          "ru": "Образ основан на легенде о Древе жизни и золотом яйце птицы Самрук.",
+          "en": "Its design draws on the legend of the Tree of Life and the Samruk bird’s golden egg."
+        }
+      }
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "kk": "Бұл нысан қай өңірде орналасқан?",
+          "ru": "В каком регионе расположен этот объект?",
+          "en": "In which region is this site located?"
+        },
+        "options": [
+          {
+            "kk": "Алматы облысы",
+            "ru": "Алматинская область",
+            "en": "Almaty Region"
+          },
+          {
+            "kk": "Маңғыстау облысы",
+            "ru": "Мангистауская область",
+            "en": "Mangystau Region"
+          },
+          {
+            "kk": "Астана",
+            "ru": "Астана",
+            "en": "Astana"
+          },
+          {
+            "kk": "Түркістан облысы",
+            "ru": "Туркестанская область",
+            "en": "Turkistan Region"
+          }
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "kk": "Бәйтерек Астананың Нұржол желекжолында орналасқан.",
+          "ru": "Байтерек расположен на бульваре Нуржол в Астане.",
+          "en": "Baiterek stands on Nurzhol Boulevard in Astana."
+        }
+      },
+      {
+        "question": {
+          "kk": "Нысанның сипаттамасында қай кезең көрсетілген?",
+          "ru": "Какой период указан в описании объекта?",
+          "en": "Which period is given in the site description?"
+        },
+        "options": [
+          {
+            "kk": "2010 жыл",
+            "ru": "2010 год",
+            "en": "2010"
+          },
+          {
+            "kk": "Ұзақ геологиялық уақыт",
+            "ru": "Длительное геологическое время",
+            "en": "A long geological timescale"
+          },
+          {
+            "kk": "1389–1405 жылдар",
+            "ru": "1389–1405 годы",
+            "en": "1389–1405"
+          },
+          {
+            "kk": "2002 жыл",
+            "ru": "2002 год",
+            "en": "2002"
+          }
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "kk": "Монумент 2002 жылы ашылды.",
+          "ru": "Монумент открыт в 2002 году.",
+          "en": "The monument opened in 2002."
+        }
+      },
+      {
+        "question": {
+          "kk": "Бұл нысанның қай ерекшелігі дұрыс?",
+          "ru": "Какая особенность этого объекта указана верно?",
+          "en": "Which statement correctly characterises this site?"
+        },
+        "options": [
+          {
+            "kk": "Өмір ағашы туралы аңыз",
+            "ru": "Легенда о Древе жизни",
+            "en": "The Tree of Life legend"
+          },
+          {
+            "kk": "Норман Фостер",
+            "ru": "Норман Фостер",
+            "en": "Norman Foster"
+          },
+          {
+            "kk": "Қамалдар аңғары",
+            "ru": "Долина замков",
+            "en": "The Valley of Castles"
+          },
+          {
+            "kk": "Үстірттің ақ жартастары",
+            "ru": "Белые скалы Устюрта",
+            "en": "Ustyurt’s white cliffs"
+          }
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "kk": "Бейнесі өмір ағашы мен Самұрық құстың алтын жұмыртқасы туралы аңызға сүйенеді.",
+          "ru": "Образ основан на легенде о Древе жизни и золотом яйце птицы Самрук.",
+          "en": "Its design draws on the legend of the Tree of Life and the Samruk bird’s golden egg."
+        }
+      },
+      {
+        "question": {
+          "kk": "Бұл нысанның маңызы туралы қай тұжырым дұрыс?",
+          "ru": "Какое утверждение о значении объекта верно?",
+          "en": "Which statement about the site’s significance is correct?"
+        },
+        "options": [
+          {
+            "kk": "Сауда және ойын-сауық",
+            "ru": "Торговля и развлечения",
+            "en": "Shopping and entertainment"
+          },
+          {
+            "kk": "Көне дүниетаным мен қазіргі сәулеттің байланысы",
+            "ru": "Связь древнего мировоззрения и современной архитектуры",
+            "en": "A link between ancient cosmology and modern architecture"
+          },
+          {
+            "kk": "Су мен желдің мүжу әрекеті",
+            "ru": "Эрозия под действием воды и ветра",
+            "en": "Erosion by water and wind"
+          },
+          {
+            "kk": "Үстірттің табиғи мұрасы",
+            "ru": "Природное наследие Устюрта",
+            "en": "Ustyurt’s natural heritage"
+          }
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "kk": "Бәйтерек көне дүниетаным мен заманауи сәулетті ұштастырады.",
+          "ru": "Байтерек объединяет древнее мировоззрение и современную архитектуру.",
+          "en": "Baiterek brings together ancient cosmology and modern architecture."
+        }
+      },
+      {
+        "question": {
+          "kk": "3D үлгіде қай негізгі пішін көрсетілген?",
+          "ru": "Какая основная форма показана в 3D-модели?",
+          "en": "Which main form is shown in the 3D model?"
+        },
+        "options": [
+          {
+            "kk": "Шатыр тәрізді жабын мен тірек",
+            "ru": "Шатровая оболочка и шпиль",
+            "en": "A tent-like enclosure and mast"
+          },
+          {
+            "kk": "Қызғылт жартастар арасындағы аңғар",
+            "ru": "Долина между красноватыми скалами",
+            "en": "A valley between reddish cliffs"
+          },
+          {
+            "kk": "Алтын түстес шар",
+            "ru": "Золотистый шар",
+            "en": "A golden sphere"
+          },
+          {
+            "kk": "Ақшыл жеке жартастар мен кемерлер",
+            "ru": "Светлые останцы и уступы",
+            "en": "Pale rock towers and escarpments"
+          }
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "kk": "Үлгінің жоғарғы жағындағы алтын түстес шар — монументтің негізгі белгісі.",
+          "ru": "Золотистый шар в верхней части модели — главный узнаваемый элемент монумента.",
+          "en": "The golden sphere at the top of the model is the monument’s defining feature."
+        }
+      }
+    ]
+  },
+  {
+    "id": "khan-shatyr",
+    "title": {
+      "kk": "Хан Шатыр",
+      "ru": "Хан Шатыр",
+      "en": "Khan Shatyr"
+    },
+    "region": {
+      "kk": "Астана",
+      "ru": "Астана",
+      "en": "Astana"
+    },
+    "city": {
+      "kk": "Астана",
+      "ru": "Астана",
+      "en": "Astana"
+    },
+    "category": "architecture",
+    "era": "modern",
+    "period": {
+      "kk": "2010 жыл",
+      "ru": "2010 год",
+      "en": "2010"
+    },
+    "coordinates": [
+      51.132222,
+      71.403889
+    ],
+    "description": {
+      "kk": "Астанадағы алып шатыр пішінді сауда және ойын-сауық орталығы. Норман Фостер жобалаған ғимарат жеңіл жабын мен биік тірекке негізделген ерекше пішінімен танылады.",
+      "ru": "Огромный торгово-развлекательный центр в форме шатра в Астане. Здание Нормана Фостера узнают по лёгкой оболочке и выразительному высокому шпилю.",
+      "en": "A large tent-shaped shopping and entertainment centre in Astana. Designed by Norman Foster, it is recognised by its lightweight enclosure and prominent high mast."
+    },
+    "significance": {
+      "kk": "Қазақстан астанасының заманауи сәулетін танытады; бір шатыр астында қоғамдық демалыс пен сауда кеңістігін біріктіреді.",
+      "ru": "Представляет современную архитектуру столицы Казахстана, объединяя общественный досуг и торговлю под одной крышей.",
+      "en": "An example of contemporary architecture in Kazakhstan’s capital, combining leisure and shopping under one roof."
+    },
+    "facts": [
+      {
+        "kk": "Хан Шатыр Астанада, Тұран даңғылында орналасқан.",
+        "ru": "Хан Шатыр расположен в Астане, на проспекте Туран.",
+        "en": "Khan Shatyr stands on Turan Avenue in Astana."
+      },
+      {
+        "kk": "Орталық 2010 жылы ашылды.",
+        "ru": "Центр открыт в 2010 году.",
+        "en": "The centre opened in 2010."
+      },
+      {
+        "kk": "Ғимараттың сәулетшісі — Норман Фостер.",
+        "ru": "Архитектор здания — Норман Фостер.",
+        "en": "The building’s architect is Norman Foster."
+      },
+      {
+        "kk": "Кешен сауда мен ойын-сауықты бір шатыр астына біріктіреді.",
+        "ru": "Комплекс объединяет торговлю и развлечения под одной крышей.",
+        "en": "The complex combines shopping and entertainment under one roof."
+      },
+      {
+        "kk": "Шатыр тәрізді жабын мен биік тірек үлгіде ықшам түрде көрсетілген.",
+        "ru": "Шатровая оболочка и высокий шпиль упрощённо показаны в модели.",
+        "en": "The tent-like enclosure and high mast are simplified in the model."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Khan Shatyr · Official history",
+        "url": "https://www.khanshatyr.com/en/about"
+      },
+      {
+        "title": "Visit Astana · Khan Shatyr",
+        "url": "https://visitastana.kz/en/about-city/what-to-see/khan-shatyr-sec/"
+      }
+    ],
+    "coordinateSources": [
+      {
+        "title": "Wikimedia Commons · Khan Shatyr",
+        "url": "https://commons.wikimedia.org/wiki/Category:Khan_Shatyr_Entertainment_Center"
+      },
+      {
+        "title": "Wikipedia · Khan Shatyr location",
+        "url": "https://en.wikipedia.org/wiki/Khan_Shatyr_Entertainment_Center"
+      }
+    ],
+    "imageGallery": [
+      "/images/khan-shatyr.webp"
+    ],
+    "imageCredits": [
+      {
+        "author": "Dauren Nabijan",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "url": "https://commons.wikimedia.org/wiki/File:Khan-Shatyr_shopping_mall.jpg",
+        "accessed": "2026-09-21"
+      }
+    ],
+    "modelUrl": "/models/khan-shatyr.glb",
+    "modelAccuracy": "approximate",
+    "vrAvailable": true,
+    "hotspots": [
+      {
+        "position": [
+          -0.75,
+          2.2,
+          1
+        ],
+        "title": {
+          "kk": "Шатыр пішіні",
+          "ru": "Форма шатра",
+          "en": "Tent form"
+        },
+        "description": {
+          "kk": "Шатыр тәрізді жабын мен биік тірек үлгіде ықшам түрде көрсетілген.",
+          "ru": "Шатровая оболочка и высокий шпиль упрощённо показаны в модели.",
+          "en": "The tent-like enclosure and high mast are simplified in the model."
+        }
+      },
+      {
+        "position": [
+          0.7,
+          5.4,
+          -0.3
+        ],
+        "title": {
+          "kk": "Орталық тірек",
+          "ru": "Центральный шпиль",
+          "en": "Central mast"
+        },
+        "description": {
+          "kk": "Биік тірек шатырдың сұлбасын айқындайды. Нақты ғимараттың инженерлік құрылымы үлгіде жеңілдетілген.",
+          "ru": "Высокий шпиль определяет силуэт шатра. Инженерное устройство реального здания в модели упрощено.",
+          "en": "The high mast defines the tent silhouette. The real building’s engineering structure is simplified in the model."
+        }
+      }
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "kk": "Бұл нысан қай өңірде орналасқан?",
+          "ru": "В каком регионе расположен этот объект?",
+          "en": "In which region is this site located?"
+        },
+        "options": [
+          {
+            "kk": "Алматы облысы",
+            "ru": "Алматинская область",
+            "en": "Almaty Region"
+          },
+          {
+            "kk": "Маңғыстау облысы",
+            "ru": "Мангистауская область",
+            "en": "Mangystau Region"
+          },
+          {
+            "kk": "Түркістан облысы",
+            "ru": "Туркестанская область",
+            "en": "Turkistan Region"
+          },
+          {
+            "kk": "Астана",
+            "ru": "Астана",
+            "en": "Astana"
+          }
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "kk": "Хан Шатыр Астанада, Тұран даңғылында орналасқан.",
+          "ru": "Хан Шатыр расположен в Астане, на проспекте Туран.",
+          "en": "Khan Shatyr stands on Turan Avenue in Astana."
+        }
+      },
+      {
+        "question": {
+          "kk": "Нысанның сипаттамасында қай кезең көрсетілген?",
+          "ru": "Какой период указан в описании объекта?",
+          "en": "Which period is given in the site description?"
+        },
+        "options": [
+          {
+            "kk": "2010 жыл",
+            "ru": "2010 год",
+            "en": "2010"
+          },
+          {
+            "kk": "Ұзақ геологиялық уақыт",
+            "ru": "Длительное геологическое время",
+            "en": "A long geological timescale"
+          },
+          {
+            "kk": "1389–1405 жылдар",
+            "ru": "1389–1405 годы",
+            "en": "1389–1405"
+          },
+          {
+            "kk": "XI–XII ғасырлар",
+            "ru": "XI–XII века",
+            "en": "11th–12th centuries"
+          }
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "kk": "Орталық 2010 жылы ашылды.",
+          "ru": "Центр открыт в 2010 году.",
+          "en": "The centre opened in 2010."
+        }
+      },
+      {
+        "question": {
+          "kk": "Ғимараттың сәулетшісі кім?",
+          "ru": "Кто архитектор здания?",
+          "en": "Who designed the building?"
+        },
+        "options": [
+          {
+            "kk": "Антони Гауди",
+            "ru": "Антони Гауди",
+            "en": "Antoni Gaudí"
+          },
+          {
+            "kk": "Норман Фостер",
+            "ru": "Норман Фостер",
+            "en": "Norman Foster"
+          },
+          {
+            "kk": "Заха Хадид",
+            "ru": "Заха Хадид",
+            "en": "Zaha Hadid"
+          },
+          {
+            "kk": "Ақмырза Рүстембеков",
+            "ru": "Акмырза Рустембеков",
+            "en": "Akmyrza Rustembekov"
+          }
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "kk": "Ғимараттың сәулетшісі — Норман Фостер.",
+          "ru": "Архитектор здания — Норман Фостер.",
+          "en": "The building’s architect is Norman Foster."
+        }
+      },
+      {
+        "question": {
+          "kk": "Бұл нысанның маңызы туралы қай тұжырым дұрыс?",
+          "ru": "Какое утверждение о значении объекта верно?",
+          "en": "Which statement about the site’s significance is correct?"
+        },
+        "options": [
+          {
+            "kk": "Су мен желдің мүжу әрекеті",
+            "ru": "Эрозия под действием воды и ветра",
+            "en": "Erosion by water and wind"
+          },
+          {
+            "kk": "Үстірттің табиғи мұрасы",
+            "ru": "Природное наследие Устюрта",
+            "en": "Ustyurt’s natural heritage"
+          },
+          {
+            "kk": "Сауда және ойын-сауық",
+            "ru": "Торговля и развлечения",
+            "en": "Shopping and entertainment"
+          },
+          {
+            "kk": "2003 жылы ЮНЕСКО тізіміне енді",
+            "ru": "Вошёл в список ЮНЕСКО в 2003 году",
+            "en": "UNESCO inscription in 2003"
+          }
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "kk": "Кешен сауда мен ойын-сауықты бір шатыр астына біріктіреді.",
+          "ru": "Комплекс объединяет торговлю и развлечения под одной крышей.",
+          "en": "The complex combines shopping and entertainment under one roof."
+        }
+      },
+      {
+        "question": {
+          "kk": "3D үлгіде қай негізгі пішін көрсетілген?",
+          "ru": "Какая основная форма показана в 3D-модели?",
+          "en": "Which main form is shown in the 3D model?"
+        },
+        "options": [
+          {
+            "kk": "Қызғылт жартастар арасындағы аңғар",
+            "ru": "Долина между красноватыми скалами",
+            "en": "A valley between reddish cliffs"
+          },
+          {
+            "kk": "Ақшыл жеке жартастар мен кемерлер",
+            "ru": "Светлые останцы и уступы",
+            "en": "Pale rock towers and escarpments"
+          },
+          {
+            "kk": "Биік портал мен күмбездер",
+            "ru": "Высокий портал и купола",
+            "en": "Tall portal and domes"
+          },
+          {
+            "kk": "Шатыр тәрізді жабын мен тірек",
+            "ru": "Шатровая оболочка и шпиль",
+            "en": "A tent-like enclosure and mast"
+          }
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "kk": "Шатыр тәрізді жабын мен биік тірек үлгіде ықшам түрде көрсетілген.",
+          "ru": "Шатровая оболочка и высокий шпиль упрощённо показаны в модели.",
+          "en": "The tent-like enclosure and high mast are simplified in the model."
+        }
+      }
+    ]
+  },
+  {
+    "id": "charyn",
+    "title": {
+      "kk": "Шарын шатқалы",
+      "ru": "Чарынский каньон",
+      "en": "Charyn Canyon"
+    },
+    "region": {
+      "kk": "Алматы облысы",
+      "ru": "Алматинская область",
+      "en": "Almaty Region"
+    },
+    "city": {
+      "kk": "Шарын өзенінің аңғары",
+      "ru": "Долина реки Чарын",
+      "en": "Charyn River valley"
+    },
+    "category": "nature",
+    "era": "natural",
+    "period": {
+      "kk": "Ұзақ геологиялық уақыт",
+      "ru": "Длительное геологическое время",
+      "en": "A long geological timescale"
+    },
+    "coordinates": [
+      43.35215,
+      79.09744
+    ],
+    "description": {
+      "kk": "Шарын өзені бойындағы қызғылт жартастар мен мұнара тәрізді тас пішіндері. «Қамалдар аңғары» — шатқалдың танымал бөліктерінің бірі.",
+      "ru": "Красноватые скалы и башнеобразные каменные формы вдоль реки Чарын. «Долина замков» — одна из самых известных частей каньона.",
+      "en": "Reddish cliffs and tower-like rock formations line the Charyn River. The Valley of Castles is one of the canyon’s best-known sections."
+    },
+    "significance": {
+      "kk": "Су мен желдің жер бедерін қалай өзгертетінін көрсететін табиғи оқу кеңістігі. Шарын ұлттық паркінің аумағында орналасқан.",
+      "ru": "Природное пространство для изучения того, как вода и ветер меняют рельеф. Находится на территории Чарынского национального парка.",
+      "en": "A natural setting for learning how water and wind shape landforms. It lies within Charyn National Park."
+    },
+    "facts": [
+      {
+        "kk": "Шарын шатқалы Алматы облысында орналасқан.",
+        "ru": "Чарынский каньон расположен в Алматинской области.",
+        "en": "Charyn Canyon is in Almaty Region."
+      },
+      {
+        "kk": "Шатқалдың бедері ұзақ геологиялық уақыт ішінде қалыптасқан.",
+        "ru": "Рельеф каньона формировался в течение длительного геологического времени.",
+        "en": "The canyon’s landforms developed over a long geological timescale."
+      },
+      {
+        "kk": "«Қамалдар аңғары» — шатқалдың ең танымал бөліктерінің бірі.",
+        "ru": "«Долина замков» — одна из наиболее известных частей каньона.",
+        "en": "The Valley of Castles is one of the canyon’s best-known sections."
+      },
+      {
+        "kk": "Су мен жел жыныстарды мүжіп, шатқалдың пішінін өзгертеді.",
+        "ru": "Вода и ветер разрушают породы и меняют форму каньона.",
+        "en": "Water and wind erode the rock and change the canyon’s shape."
+      },
+      {
+        "kk": "Үлгіде қызғылт жартастар арасындағы терең аңғар көрсетілген.",
+        "ru": "В модели показана глубокая долина между красноватыми скалами.",
+        "en": "The model shows a deep valley between reddish cliffs."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Kazakhstan Travel · Charyn Canyon",
+        "url": "https://kazakhstan.travel/en/attractions/54"
+      },
+      {
+        "title": "Qazaq National Parks · Charyn",
+        "url": "https://qazaqnationalparks.kz/parks/charyn-canyon/"
+      }
+    ],
+    "coordinateSources": [
+      {
+        "title": "Kazakhstan Travel · Canyon viewpoint",
+        "url": "https://kazakhstan.travel/en/attractions/54"
+      },
+      {
+        "title": "Wikimedia Commons · Nearby canyon viewpoint",
+        "url": "https://commons.wikimedia.org/wiki/File:Charyn_Canyon,_Kazakhstan_03.jpg"
+      }
+    ],
+    "imageGallery": [
+      "/images/charyn.webp"
+    ],
+    "imageCredits": [
+      {
+        "author": "Bgag",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "url": "https://commons.wikimedia.org/wiki/File:Charyn_Canyon,_Kazakhstan_01.jpg",
+        "accessed": "2026-09-21"
+      }
+    ],
+    "modelUrl": "/models/charyn.glb",
+    "modelAccuracy": "approximate",
+    "vrAvailable": true,
+    "hotspots": [
+      {
+        "position": [
+          2.1,
+          2.3,
+          1.7
+        ],
+        "title": {
+          "kk": "Жартас қабаттары",
+          "ru": "Слои скал",
+          "en": "Rock layers"
+        },
+        "description": {
+          "kk": "«Қамалдар аңғары» — шатқалдың ең танымал бөліктерінің бірі.",
+          "ru": "«Долина замков» — одна из наиболее известных частей каньона.",
+          "en": "The Valley of Castles is one of the canyon’s best-known sections."
+        }
+      },
+      {
+        "position": [
+          0,
+          0.45,
+          0.5
+        ],
+        "title": {
+          "kk": "Аңғар",
+          "ru": "Долина",
+          "en": "Valley"
+        },
+        "description": {
+          "kk": "Үлгіде қызғылт жартастар арасындағы терең аңғар көрсетілген.",
+          "ru": "В модели показана глубокая долина между красноватыми скалами.",
+          "en": "The model shows a deep valley between reddish cliffs."
+        }
+      }
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "kk": "Бұл нысан қай өңірде орналасқан?",
+          "ru": "В каком регионе расположен этот объект?",
+          "en": "In which region is this site located?"
+        },
+        "options": [
+          {
+            "kk": "Алматы облысы",
+            "ru": "Алматинская область",
+            "en": "Almaty Region"
+          },
+          {
+            "kk": "Маңғыстау облысы",
+            "ru": "Мангистауская область",
+            "en": "Mangystau Region"
+          },
+          {
+            "kk": "Түркістан облысы",
+            "ru": "Туркестанская область",
+            "en": "Turkistan Region"
+          },
+          {
+            "kk": "Жамбыл облысы",
+            "ru": "Жамбылская область",
+            "en": "Zhambyl Region"
+          }
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "kk": "Шарын шатқалы Алматы облысында орналасқан.",
+          "ru": "Чарынский каньон расположен в Алматинской области.",
+          "en": "Charyn Canyon is in Almaty Region."
+        }
+      },
+      {
+        "question": {
+          "kk": "Нысанның сипаттамасында қай кезең көрсетілген?",
+          "ru": "Какой период указан в описании объекта?",
+          "en": "Which period is given in the site description?"
+        },
+        "options": [
+          {
+            "kk": "1389–1405 жылдар",
+            "ru": "1389–1405 годы",
+            "en": "1389–1405"
+          },
+          {
+            "kk": "Ұзақ геологиялық уақыт",
+            "ru": "Длительное геологическое время",
+            "en": "A long geological timescale"
+          },
+          {
+            "kk": "XI–XII ғасырлар",
+            "ru": "XI–XII века",
+            "en": "11th–12th centuries"
+          },
+          {
+            "kk": "Қола дәуірі — XX ғасырдың басы",
+            "ru": "Бронзовый век — начало XX века",
+            "en": "Bronze Age – early 20th century"
+          }
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "kk": "Шатқалдың бедері ұзақ геологиялық уақыт ішінде қалыптасқан.",
+          "ru": "Рельеф каньона формировался в течение длительного геологического времени.",
+          "en": "The canyon’s landforms developed over a long geological timescale."
+        }
+      },
+      {
+        "question": {
+          "kk": "Шатқалдың танымал бөлігі қалай аталады?",
+          "ru": "Как называется известная часть каньона?",
+          "en": "What is a well-known section of the canyon called?"
+        },
+        "options": [
+          {
+            "kk": "Жетісу қақпасы",
+            "ru": "Джунгарские ворота",
+            "en": "Dzungarian Gate"
+          },
+          {
+            "kk": "Әншіқұм",
+            "ru": "Поющий бархан",
+            "en": "Singing Dune"
+          },
+          {
+            "kk": "Қамалдар аңғары",
+            "ru": "Долина замков",
+            "en": "The Valley of Castles"
+          },
+          {
+            "kk": "Көлсай көлдері",
+            "ru": "Кольсайские озёра",
+            "en": "Kolsai Lakes"
+          }
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "kk": "«Қамалдар аңғары» — шатқалдың ең танымал бөліктерінің бірі.",
+          "ru": "«Долина замков» — одна из наиболее известных частей каньона.",
+          "en": "The Valley of Castles is one of the canyon’s best-known sections."
+        }
+      },
+      {
+        "question": {
+          "kk": "Шатқалдың пішінін қандай үдеріс өзгертеді?",
+          "ru": "Какой процесс меняет форму каньона?",
+          "en": "Which process changes the canyon’s shape?"
+        },
+        "options": [
+          {
+            "kk": "Құрылысшылардың кірпіш қалауы",
+            "ru": "Кирпичная кладка строителей",
+            "en": "Builders laying bricks"
+          },
+          {
+            "kk": "Металды балқыту",
+            "ru": "Плавление металла",
+            "en": "Smelting metal"
+          },
+          {
+            "kk": "Шыныны қалыптау",
+            "ru": "Формование стекла",
+            "en": "Shaping glass"
+          },
+          {
+            "kk": "Су мен желдің мүжу әрекеті",
+            "ru": "Эрозия под действием воды и ветра",
+            "en": "Erosion by water and wind"
+          }
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "kk": "Су мен жел жыныстарды мүжіп, шатқалдың пішінін өзгертеді.",
+          "ru": "Вода и ветер разрушают породы и меняют форму каньона.",
+          "en": "Water and wind erode the rock and change the canyon’s shape."
+        }
+      },
+      {
+        "question": {
+          "kk": "3D үлгіде қай негізгі пішін көрсетілген?",
+          "ru": "Какая основная форма показана в 3D-модели?",
+          "en": "Which main form is shown in the 3D model?"
+        },
+        "options": [
+          {
+            "kk": "Қызғылт жартастар арасындағы аңғар",
+            "ru": "Долина между красноватыми скалами",
+            "en": "A valley between reddish cliffs"
+          },
+          {
+            "kk": "Ақшыл жеке жартастар мен кемерлер",
+            "ru": "Светлые останцы и уступы",
+            "en": "Pale rock towers and escarpments"
+          },
+          {
+            "kk": "Биік портал мен күмбездер",
+            "ru": "Высокий портал и купола",
+            "en": "Tall portal and domes"
+          },
+          {
+            "kk": "Шаршы тұлға мен бұрыштық бағандар",
+            "ru": "Квадратный объём и угловые колонны",
+            "en": "Square body and corner columns"
+          }
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "kk": "Үлгіде қызғылт жартастар арасындағы терең аңғар көрсетілген.",
+          "ru": "В модели показана глубокая долина между красноватыми скалами.",
+          "en": "The model shows a deep valley between reddish cliffs."
+        }
+      }
+    ]
+  },
+  {
+    "id": "bozzhyra",
+    "title": {
+      "kk": "Бозжыра",
+      "ru": "Бозжыра",
+      "en": "Bozzhyra"
+    },
+    "region": {
+      "kk": "Маңғыстау облысы",
+      "ru": "Мангистауская область",
+      "en": "Mangystau Region"
+    },
+    "city": {
+      "kk": "Қарақия ауданы, Үстірт",
+      "ru": "Каракиянский район, Устюрт",
+      "en": "Karakiya District, Ustyurt"
+    },
+    "category": "nature",
+    "era": "natural",
+    "period": {
+      "kk": "Ұзақ геологиялық уақыт",
+      "ru": "Длительное геологическое время",
+      "en": "A long geological timescale"
+    },
+    "coordinates": [
+      43.408547,
+      54.103867
+    ],
+    "description": {
+      "kk": "Үстірттің батыс бөлігіндегі ақ жартастар, тік құздар және оқшау тас шоқылар. Бозжыраның ашық түсті пішіндері Маңғыстаудың кең шөлейт ландшафтымен астасады.",
+      "ru": "Белые скалы, обрывы и отдельные останцы в западной части Устюрта. Светлые формы Бозжыры сочетаются с просторным пустынным ландшафтом Мангистау.",
+      "en": "White cliffs, escarpments and isolated rock towers mark the western Ustyurt Plateau. Bozzhyra’s pale formations rise above Mangystau’s open desert landscape."
+    },
+    "significance": {
+      "kk": "Үстірттің табиғи мұрасын танытатын ландшафт. Ақ жартастар жердің ұзақ геологиялық тарихын оқуға мүмкіндік береді.",
+      "ru": "Ландшафт, представляющий природное наследие Устюрта. Белые скалы позволяют изучать долгую геологическую историю местности.",
+      "en": "A landscape representing the natural heritage of Ustyurt. Its pale cliffs offer a way to explore the region’s long geological history."
+    },
+    "facts": [
+      {
+        "kk": "Бозжыра Маңғыстау облысының Қарақия ауданында орналасқан.",
+        "ru": "Бозжыра находится в Каракиянском районе Мангистауской области.",
+        "en": "Bozzhyra lies in Karakiya District, Mangystau Region."
+      },
+      {
+        "kk": "Бозжыра — ұзақ геологиялық уақыт ішінде қалыптасқан табиғи ландшафт.",
+        "ru": "Бозжыра — природный ландшафт, сформированный за длительное геологическое время.",
+        "en": "Bozzhyra is a natural landscape formed over a long geological timescale."
+      },
+      {
+        "kk": "Ақ жартастары Үстірттің батыс бөлігіндегі кемерлерге жатады.",
+        "ru": "Белые скалы относятся к уступам западной части Устюрта.",
+        "en": "Its white cliffs form part of the western Ustyurt escarpments."
+      },
+      {
+        "kk": "Бозжыра Үстірттің табиғи және геологиялық мұрасын танытады.",
+        "ru": "Бозжыра представляет природное и геологическое наследие Устюрта.",
+        "en": "Bozzhyra represents Ustyurt’s natural and geological heritage."
+      },
+      {
+        "kk": "Үлгіде ақшыл, оқшау тұрған жартастар мен тік кемерлер көрсетілген.",
+        "ru": "В модели показаны светлые отдельно стоящие скалы и крутые уступы.",
+        "en": "The model shows pale isolated rock towers and steep escarpments."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Kazakhstan Travel · Bozzhyra",
+        "url": "https://kazakhstan.travel/en/attractions/326"
+      },
+      {
+        "title": "Kazakhstan Government · Tourism",
+        "url": "https://www.gov.kz/article/63300?lang=en"
+      }
+    ],
+    "coordinateSources": [
+      {
+        "title": "Official geographic register · Bozzhyra",
+        "url": "https://old.adilet.zan.kz/rus/docs/V2500036696"
+      },
+      {
+        "title": "Wikimedia Commons · Fangs viewpoint geotag",
+        "url": "https://commons.wikimedia.org/wiki/File:Fangs_of_Bozzhyra.jpg"
+      }
+    ],
+    "imageGallery": [
+      "/images/bozzhyra.webp"
+    ],
+    "imageCredits": [
+      {
+        "author": "Berik Aday",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Bozzhyra_valley,_Mangistau_region,_Kazakhstan.jpg",
+        "accessed": "2026-09-21"
+      }
+    ],
+    "modelUrl": "/models/bozzhyra.glb",
+    "modelAccuracy": "approximate",
+    "vrAvailable": true,
+    "hotspots": [
+      {
+        "position": [
+          -0.82,
+          3.1,
+          0.8
+        ],
+        "title": {
+          "kk": "Ақ жартас",
+          "ru": "Белая скала",
+          "en": "White rock tower"
+        },
+        "description": {
+          "kk": "Ақ жартастары Үстірттің батыс бөлігіндегі кемерлерге жатады.",
+          "ru": "Белые скалы относятся к уступам западной части Устюрта.",
+          "en": "Its white cliffs form part of the western Ustyurt escarpments."
+        }
+      },
+      {
+        "position": [
+          1.5,
+          1.6,
+          -1.6
+        ],
+        "title": {
+          "kk": "Үстірт кемері",
+          "ru": "Уступ Устюрта",
+          "en": "Ustyurt escarpment"
+        },
+        "description": {
+          "kk": "Үлгіде ақшыл, оқшау тұрған жартастар мен тік кемерлер көрсетілген.",
+          "ru": "В модели показаны светлые отдельно стоящие скалы и крутые уступы.",
+          "en": "The model shows pale isolated rock towers and steep escarpments."
+        }
+      }
+    ],
+    "quizQuestions": [
+      {
+        "question": {
+          "kk": "Бұл нысан қай өңірде орналасқан?",
+          "ru": "В каком регионе расположен этот объект?",
+          "en": "In which region is this site located?"
+        },
+        "options": [
+          {
+            "kk": "Түркістан облысы",
+            "ru": "Туркестанская область",
+            "en": "Turkistan Region"
+          },
+          {
+            "kk": "Маңғыстау облысы",
+            "ru": "Мангистауская область",
+            "en": "Mangystau Region"
+          },
+          {
+            "kk": "Жамбыл облысы",
+            "ru": "Жамбылская область",
+            "en": "Zhambyl Region"
+          },
+          {
+            "kk": "Алматы облысы",
+            "ru": "Алматинская область",
+            "en": "Almaty Region"
+          }
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "kk": "Бозжыра Маңғыстау облысының Қарақия ауданында орналасқан.",
+          "ru": "Бозжыра находится в Каракиянском районе Мангистауской области.",
+          "en": "Bozzhyra lies in Karakiya District, Mangystau Region."
+        }
+      },
+      {
+        "question": {
+          "kk": "Нысанның сипаттамасында қай кезең көрсетілген?",
+          "ru": "Какой период указан в описании объекта?",
+          "en": "Which period is given in the site description?"
+        },
+        "options": [
+          {
+            "kk": "1389–1405 жылдар",
+            "ru": "1389–1405 годы",
+            "en": "1389–1405"
+          },
+          {
+            "kk": "XI–XII ғасырлар",
+            "ru": "XI–XII века",
+            "en": "11th–12th centuries"
+          },
+          {
+            "kk": "Ұзақ геологиялық уақыт",
+            "ru": "Длительное геологическое время",
+            "en": "A long geological timescale"
+          },
+          {
+            "kk": "Қола дәуірі — XX ғасырдың басы",
+            "ru": "Бронзовый век — начало XX века",
+            "en": "Bronze Age – early 20th century"
+          }
+        ],
+        "correctIndex": 2,
+        "explanation": {
+          "kk": "Бозжыра — ұзақ геологиялық уақыт ішінде қалыптасқан табиғи ландшафт.",
+          "ru": "Бозжыра — природный ландшафт, сформированный за длительное геологическое время.",
+          "en": "Bozzhyra is a natural landscape formed over a long geological timescale."
+        }
+      },
+      {
+        "question": {
+          "kk": "Бұл нысанның қай ерекшелігі дұрыс?",
+          "ru": "Какая особенность этого объекта указана верно?",
+          "en": "Which statement correctly characterises this site?"
+        },
+        "options": [
+          {
+            "kk": "Қожа Ахмет Ясауиге арналған",
+            "ru": "Посвящён Ходже Ахмеду Ясави",
+            "en": "Dedicated to Khoja Ahmed Yasawi"
+          },
+          {
+            "kk": "Оюланған терракота қаптамасы",
+            "ru": "Резная терракотовая облицовка",
+            "en": "Carved terracotta cladding"
+          },
+          {
+            "kk": "Күйдірілген кірпіш",
+            "ru": "Обожжённый кирпич",
+            "en": "Fired brick"
+          },
+          {
+            "kk": "Үстірттің ақ жартастары",
+            "ru": "Белые скалы Устюрта",
+            "en": "Ustyurt’s white cliffs"
+          }
+        ],
+        "correctIndex": 3,
+        "explanation": {
+          "kk": "Ақ жартастары Үстірттің батыс бөлігіндегі кемерлерге жатады.",
+          "ru": "Белые скалы относятся к уступам западной части Устюрта.",
+          "en": "Its white cliffs form part of the western Ustyurt escarpments."
+        }
+      },
+      {
+        "question": {
+          "kk": "Бұл нысанның маңызы туралы қай тұжырым дұрыс?",
+          "ru": "Какое утверждение о значении объекта верно?",
+          "en": "Which statement about the site’s significance is correct?"
+        },
+        "options": [
+          {
+            "kk": "Үстірттің табиғи мұрасы",
+            "ru": "Природное наследие Устюрта",
+            "en": "Ustyurt’s natural heritage"
+          },
+          {
+            "kk": "2003 жылы ЮНЕСКО тізіміне енді",
+            "ru": "Вошёл в список ЮНЕСКО в 2003 году",
+            "en": "UNESCO inscription in 2003"
+          },
+          {
+            "kk": "Халық аңызы",
+            "ru": "Народная легенда",
+            "en": "A folk legend"
+          },
+          {
+            "kk": "Түркі-мұсылман сәулеті",
+            "ru": "Тюрко-мусульманская архитектура",
+            "en": "Turkic Muslim architecture"
+          }
+        ],
+        "correctIndex": 0,
+        "explanation": {
+          "kk": "Бозжыра Үстірттің табиғи және геологиялық мұрасын танытады.",
+          "ru": "Бозжыра представляет природное и геологическое наследие Устюрта.",
+          "en": "Bozzhyra represents Ustyurt’s natural and geological heritage."
+        }
+      },
+      {
+        "question": {
+          "kk": "3D үлгіде қай негізгі пішін көрсетілген?",
+          "ru": "Какая основная форма показана в 3D-модели?",
+          "en": "Which main form is shown in the 3D model?"
+        },
+        "options": [
+          {
+            "kk": "Биік портал мен күмбездер",
+            "ru": "Высокий портал и купола",
+            "en": "Tall portal and domes"
+          },
+          {
+            "kk": "Ақшыл жеке жартастар мен кемерлер",
+            "ru": "Светлые останцы и уступы",
+            "en": "Pale rock towers and escarpments"
+          },
+          {
+            "kk": "Шаршы тұлға мен бұрыштық бағандар",
+            "ru": "Квадратный объём и угловые колонны",
+            "en": "Square body and corner columns"
+          },
+          {
+            "kk": "Қырлы, сүйір күмбез",
+            "ru": "Ребристый остроконечный купол",
+            "en": "A pointed, ribbed dome"
+          }
+        ],
+        "correctIndex": 1,
+        "explanation": {
+          "kk": "Үлгіде ақшыл, оқшау тұрған жартастар мен тік кемерлер көрсетілген.",
+          "ru": "В модели показаны светлые отдельно стоящие скалы и крутые уступы.",
+          "en": "The model shows pale isolated rock towers and steep escarpments."
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "yasawi",
+    "file": "/models/yasawi.glb",
+    "bytes": 480612,
+    "triangles": 17580,
+    "materials": 13,
+    "size": [
+      7.3,
+      5.765,
+      6.5
+    ]
+  },
+  {
+    "id": "aisha-bibi",
+    "file": "/models/aisha-bibi.glb",
+    "bytes": 1027292,
+    "triangles": 27144,
+    "materials": 10,
+    "size": [
+      6.8,
+      6.064,
+      6.065
+    ]
+  },
+  {
+    "id": "babadzha",
+    "file": "/models/babadzha.glb",
+    "bytes": 508904,
+    "triangles": 10852,
+    "materials": 9,
+    "size": [
+      6.4,
+      5.69,
+      5.6
+    ]
+  },
+  {
+    "id": "tamgaly",
+    "file": "/models/tamgaly.glb",
+    "bytes": 112436,
+    "triangles": 3806,
+    "materials": 6,
+    "size": [
+      7.3,
+      3.741,
+      5.5
+    ]
+  },
+  {
+    "id": "otrar",
+    "file": "/models/otrar.glb",
+    "bytes": 373592,
+    "triangles": 8536,
+    "materials": 6,
+    "size": [
+      8.1,
+      2.36,
+      6.5
+    ]
+  },
+  {
+    "id": "akyrtas",
+    "file": "/models/akyrtas.glb",
+    "bytes": 316448,
+    "triangles": 6000,
+    "materials": 7,
+    "size": [
+      8.3,
+      1.869,
+      6.7
+    ]
+  },
+  {
+    "id": "baiterek",
+    "file": "/models/baiterek.glb",
+    "bytes": 758144,
+    "triangles": 33488,
+    "materials": 10,
+    "size": [
+      6.1,
+      6.644,
+      5.7
+    ]
+  },
+  {
+    "id": "khan-shatyr",
+    "file": "/models/khan-shatyr.glb",
+    "bytes": 574488,
+    "triangles": 25064,
+    "materials": 10,
+    "size": [
+      7.5,
+      5.748,
+      6.4
+    ]
+  },
+  {
+    "id": "charyn",
+    "file": "/models/charyn.glb",
+    "bytes": 187928,
+    "triangles": 3936,
+    "materials": 9,
+    "size": [
+      8.3,
+      4.59,
+      6
+    ]
+  },
+  {
+    "id": "bozzhyra",
+    "file": "/models/bozzhyra.glb",
+    "bytes": 108052,
+    "triangles": 2074,
+    "materials": 6,
+    "size": [
+      8.3,
+      4.93,
+      6
+    ]
+  }
+]
