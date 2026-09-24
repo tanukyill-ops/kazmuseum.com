@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/i18n.ts","./src/main.tsx","./src/publicpath.ts","./src/types.ts","./src/vite-env.d.ts","./src/components/guide.tsx","./src/components/learning.tsx","./src/components/modal.tsx","./src/components/modelviewer.tsx","./src/components/museummap.tsx"],"version":"5.7.3"}
