@@ -29,6 +29,8 @@ jobs:
         run: npm ci
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
+      - name: Restore Vite entrypoint
+        run: cp index.source.html index.html
       - name: Build
         run: npm run build
       - name: Upload Pages artifact
